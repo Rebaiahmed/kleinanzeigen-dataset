@@ -1,0 +1,22 @@
+name: Validate data
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Validate JSON and check CSV matches
+        run: |
+          python -m json.tool data/categories.json >/dev/null
+          python -m json.tool data/metadata.json >/dev/null
+          cp data/categories.csv /tmp/categories.csv
+          python tools/export_csv.py
+          cmp /tmp/categories.csv data/categories.csv

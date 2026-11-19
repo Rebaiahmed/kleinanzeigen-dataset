@@ -1,0 +1,2771 @@
+{
+  "17": {
+    "label": "Familie, Kind & Baby",
+    "id": "17",
+    "subcategories": {
+      "18": {
+        "label": "Weiteres Familie, Kind & Baby",
+        "id": "18",
+        "subcategories": {}
+      },
+      "19": {
+        "label": "Baby- & Kinderschuhe",
+        "id": "19",
+        "subcategories": {
+          "ballerinas": {
+            "label": "Ballerinas",
+            "id": "ballerinas"
+          },
+          "halb_schnuerschuhe": {
+            "label": "Halb- & Schnürschuhe",
+            "id": "halb_schnuerschuhe"
+          },
+          "hausschuhe": {
+            "label": "Hausschuhe",
+            "id": "hausschuhe"
+          },
+          "sandalen": {
+            "label": "Sandalen",
+            "id": "sandalen"
+          },
+          "outdoor_wanderschuhe": {
+            "label": "Outdoor & Wanderschuhe",
+            "id": "outdoor_wanderschuhe"
+          },
+          "sneaker_sportschuhe": {
+            "label": "Sneaker & Sportschuhe",
+            "id": "sneaker_sportschuhe"
+          },
+          "stiefel_stiefeletten": {
+            "label": "Stiefel & Stiefeletten",
+            "id": "stiefel_stiefeletten"
+          },
+          "badeschuhe": {
+            "label": "Badeschuhe",
+            "id": "badeschuhe"
+          },
+          "sonstiges": {
+            "label": "Weitere Schuhe",
+            "id": "sonstiges"
+          }
+        }
+      },
+      "20": {
+        "label": "Kinderzimmermöbel",
+        "id": "20",
+        "subcategories": {
+          "betten_wiegen": {
+            "label": "Betten & Wiegen",
+            "id": "betten_wiegen"
+          },
+          "hochstuehle_laufstaelle": {
+            "label": "Hochstühle & Laufställe",
+            "id": "hochstuehle_laufstaelle"
+          },
+          "schraenke_kommoden": {
+            "label": "Schränke & Kommoden",
+            "id": "schraenke_kommoden"
+          },
+          "wickeltische_zubehoer": {
+            "label": "Wickeltische & Zubehör",
+            "id": "wickeltische_zubehoer"
+          },
+          "wippen_schaukeln": {
+            "label": "Wippen & Schaukeln",
+            "id": "wippen_schaukeln"
+          },
+          "sonstige": {
+            "label": "Weitere Kinderzimmermöbel",
+            "id": "sonstige"
+          }
+        }
+      },
+      "21": {
+        "label": "Babyschalen & Kindersitze",
+        "id": "21",
+        "subcategories": {}
+      },
+      "22": {
+        "label": "Baby- & Kinderkleidung",
+        "id": "22",
+        "subcategories": {
+          "hosen_jeans": {
+            "label": "Hosen & Jeans",
+            "id": "hosen_jeans"
+          },
+          "kleider_roecke": {
+            "label": "Kleider & Röcke",
+            "id": "kleider_roecke"
+          },
+          "shirts_tops": {
+            "label": "Shirts & Tops",
+            "id": "shirts_tops"
+          },
+          "hemden": {
+            "label": "Hemden",
+            "id": "hemden"
+          },
+          "jacken_mantel": {
+            "label": "Jacken & Mäntel",
+            "id": "jacken_mantel"
+          },
+          "pullover_strickjacken": {
+            "label": "Pullover & Strickjacken",
+            "id": "pullover_strickjacken"
+          },
+          "wasche": {
+            "label": "Wäsche",
+            "id": "wasche"
+          },
+          "sportbekleidung": {
+            "label": "Sportbekleidung",
+            "id": "sportbekleidung"
+          },
+          "bademode": {
+            "label": "Bademode",
+            "id": "bademode"
+          },
+          "accessoires": {
+            "label": "Accessoires",
+            "id": "accessoires"
+          },
+          "kleidungspakete": {
+            "label": "Kleidungspakete",
+            "id": "kleidungspakete"
+          },
+          "sonstiges": {
+            "label": "Weitere Baby- & Kinderkleidung",
+            "id": "sonstiges"
+          }
+        }
+      },
+      "23": {
+        "label": "Spielzeug",
+        "id": "23",
+        "subcategories": {
+          "actionfiguren": {
+            "label": "Action- & Spielfiguren",
+            "id": "actionfiguren"
+          },
+          "babyspielzeug": {
+            "label": "Babyspielzeug",
+            "id": "babyspielzeug"
+          },
+          "barbie": {
+            "label": "Barbie & Co",
+            "id": "barbie"
+          },
+          "dreirad": {
+            "label": "Dreirad & Co",
+            "id": "dreirad"
+          },
+          "gesellschaftsspiele": {
+            "label": "Gesellschaftsspiele",
+            "id": "gesellschaftsspiele"
+          },
+          "holzspielzeug": {
+            "label": "Holzspielzeug",
+            "id": "holzspielzeug"
+          },
+          "lego_duplo": {
+            "label": "LEGO & Duplo",
+            "id": "lego_duplo"
+          },
+          "lernspielzeug": {
+            "label": "Lernspielzeug",
+            "id": "lernspielzeug"
+          },
+          "playmobil": {
+            "label": "Playmobil",
+            "id": "playmobil"
+          },
+          "puppen": {
+            "label": "Puppen",
+            "id": "puppen"
+          },
+          "spielzeug_autos": {
+            "label": "Spielzeugautos",
+            "id": "spielzeug_autos"
+          },
+          "spielzeug_draussen": {
+            "label": "Spielzeug für draußen",
+            "id": "spielzeug_draussen"
+          },
+          "stofftiere": {
+            "label": "Stofftiere",
+            "id": "stofftiere"
+          },
+          "sonstiges": {
+            "label": "Weiteres Spielzeug",
+            "id": "sonstiges"
+          }
+        }
+      },
+      "25": {
+        "label": "Kinderwagen & Buggys",
+        "id": "25",
+        "subcategories": {}
+      },
+      "236": {
+        "label": "Altenpflege",
+        "id": "236",
+        "subcategories": {}
+      },
+      "237": {
+        "label": "Babysitter/-in & Kinderbetreuung",
+        "id": "237",
+        "subcategories": {}
+      },
+      "258": {
+        "label": "Baby-Ausstattung",
+        "id": "258",
+        "subcategories": {}
+      }
+    }
+  },
+  "73": {
+    "label": "Musik, Filme & Bücher",
+    "id": "73",
+    "subcategories": {
+      "74": {
+        "label": "Musikinstrumente",
+        "id": "74",
+        "subcategories": {}
+      },
+      "75": {
+        "label": "Weitere Musik, Filme & Bücher",
+        "id": "75",
+        "subcategories": {}
+      },
+      "76": {
+        "label": "Bücher & Zeitschriften",
+        "id": "76",
+        "subcategories": {
+          "antiquarische_buecher": {
+            "label": "Antiquarische Bücher",
+            "id": "antiquarische_buecher"
+          },
+          "kinderbuecher": {
+            "label": "Kinderbücher",
+            "id": "kinderbuecher"
+          },
+          "krimis_thriller": {
+            "label": "Krimis & Thriller",
+            "id": "krimis_thriller"
+          },
+          "kunst_kultur": {
+            "label": "Kunst & Kultur",
+            "id": "kunst_kultur"
+          },
+          "sachbuecher": {
+            "label": "Sachbücher",
+            "id": "sachbuecher"
+          },
+          "science_fiction": {
+            "label": "Science Fiction",
+            "id": "science_fiction"
+          },
+          "unterhaltungsliteratur": {
+            "label": "Unterhaltungsliteratur",
+            "id": "unterhaltungsliteratur"
+          },
+          "zeitgenoessische_literatur_klassiker": {
+            "label": "Zeitgenössische Literatur & Klassiker",
+            "id": "zeitgenoessische_literatur_klassiker"
+          },
+          "zeitschriften": {
+            "label": "Zeitschriften",
+            "id": "zeitschriften"
+          },
+          "sonstige": {
+            "label": "Weitere Bücher & Zeitschriften",
+            "id": "sonstige"
+          }
+        }
+      },
+      "77": {
+        "label": "Fachbücher, Schule & Studium",
+        "id": "77",
+        "subcategories": {}
+      },
+      "78": {
+        "label": "Musik & CDs",
+        "id": "78",
+        "subcategories": {}
+      },
+      "79": {
+        "label": "Film & DVD",
+        "id": "79",
+        "subcategories": {}
+      },
+      "281": {
+        "label": "Büro & Schreibwaren",
+        "id": "281",
+        "subcategories": {}
+      },
+      "284": {
+        "label": "Comics",
+        "id": "284",
+        "subcategories": {}
+      }
+    }
+  },
+  "80": {
+    "label": "Haus & Garten",
+    "id": "80",
+    "subcategories": {
+      "81": {
+        "label": "Schlafzimmer",
+        "id": "81",
+        "subcategories": {
+          "betten": {
+            "label": "Betten",
+            "id": "betten"
+          },
+          "lattenroste": {
+            "label": "Lattenroste",
+            "id": "lattenroste"
+          },
+          "matratzen": {
+            "label": "Matratzen",
+            "id": "matratzen"
+          },
+          "nachttische": {
+            "label": "Nachttische",
+            "id": "nachttische"
+          },
+          "schraenke": {
+            "label": "Schränke",
+            "id": "schraenke"
+          },
+          "sonstiges": {
+            "label": "Weiteres Schlafzimmer",
+            "id": "sonstiges"
+          }
+        }
+      },
+      "82": {
+        "label": "Lampen & Licht",
+        "id": "82",
+        "subcategories": {}
+      },
+      "84": {
+        "label": "Heimwerken",
+        "id": "84",
+        "subcategories": {}
+      },
+      "86": {
+        "label": "Küche & Esszimmer",
+        "id": "86",
+        "subcategories": {
+          "besteck": {
+            "label": "Besteck",
+            "id": "besteck"
+          },
+          "geschirr": {
+            "label": "Geschirr",
+            "id": "geschirr"
+          },
+          "glaeser": {
+            "label": "Gläser",
+            "id": "glaeser"
+          },
+          "kuechengeraete": {
+            "label": "Kleingeräte",
+            "id": "kuechengeraete"
+          },
+          "kuechenschraenke": {
+            "label": "Küchenschränke",
+            "id": "kuechenschraenke"
+          },
+          "stuehle": {
+            "label": "Stühle",
+            "id": "stuehle"
+          },
+          "tische": {
+            "label": "Tische",
+            "id": "tische"
+          },
+          "sonstige": {
+            "label": "Weiteres Küche & Esszimmer",
+            "id": "sonstige"
+          }
+        }
+      },
+      "87": {
+        "label": "Weiteres Haus & Garten",
+        "id": "87",
+        "subcategories": {}
+      },
+      "88": {
+        "label": "Wohnzimmer",
+        "id": "88",
+        "subcategories": {
+          "regale": {
+            "label": "Regale",
+            "id": "regale"
+          },
+          "schraenke": {
+            "label": "Schränke & Schrankwände",
+            "id": "schraenke"
+          },
+          "sitzmoebel": {
+            "label": "Sitzmöbel",
+            "id": "sitzmoebel"
+          },
+          "sofas_sitzgarnituren": {
+            "label": "Sofas & Sitzgarnituren",
+            "id": "sofas_sitzgarnituren"
+          },
+          "tische": {
+            "label": "Tische",
+            "id": "tische"
+          },
+          "tv_moebel": {
+            "label": "TV & Phonomöbel",
+            "id": "tv_moebel"
+          },
+          "sonstiges": {
+            "label": "Weiteres Wohnzimmer",
+            "id": "sonstiges"
+          }
+        }
+      },
+      "89": {
+        "label": "Gartenzubehör & Pflanzen",
+        "id": "89",
+        "subcategories": {
+          "blumentoepfe": {
+            "label": "Blumentöpfe",
+            "id": "blumentoepfe"
+          },
+          "dekoration": {
+            "label": "Dekoration",
+            "id": "dekoration"
+          },
+          "gartengeraete": {
+            "label": "Gartengeräte",
+            "id": "gartengeraete"
+          },
+          "gartenmoebel": {
+            "label": "Gartenmöbel",
+            "id": "gartenmoebel"
+          },
+          "pflanzen": {
+            "label": "Pflanzen",
+            "id": "pflanzen"
+          },
+          "sonstige": {
+            "label": "Weiteres Gartenzubehör & Pflanzen",
+            "id": "sonstige"
+          }
+        }
+      },
+      "90": {
+        "label": "Heimtextilien",
+        "id": "90",
+        "subcategories": {}
+      },
+      "91": {
+        "label": "Badezimmer",
+        "id": "91",
+        "subcategories": {}
+      },
+      "93": {
+        "label": "Büro",
+        "id": "93",
+        "subcategories": {}
+      },
+      "239": {
+        "label": "Dienstleistungen Haus & Garten",
+        "id": "239",
+        "subcategories": {
+          "bau_handwerk": {
+            "label": "Bau & Handwerk",
+            "id": "bau_handwerk"
+          },
+          "garten_landschaftsbau": {
+            "label": "Garten- & Landschaftsbau",
+            "id": "garten_landschaftsbau"
+          },
+          "haushaltshilfe": {
+            "label": "Haushaltshilfe",
+            "id": "haushaltshilfe"
+          },
+          "reingungsservice": {
+            "label": "Reinigungsservice",
+            "id": "reingungsservice"
+          },
+          "reparaturen": {
+            "label": "Reparaturen",
+            "id": "reparaturen"
+          },
+          "wohnungsaufloesungen": {
+            "label": "Wohnungsauflösungen",
+            "id": "wohnungsaufloesungen"
+          },
+          "sonstige": {
+            "label": "Weitere Dienstleistungen Haus & Garten",
+            "id": "sonstige"
+          }
+        }
+      },
+      "246": {
+        "label": "Dekoration",
+        "id": "246",
+        "subcategories": {
+          "bilder_poster": {
+            "label": "Bilder & Poster",
+            "id": "bilder_poster"
+          },
+          "kerzen_kerzenhalter": {
+            "label": "Kerzen & Kerzenhalter",
+            "id": "kerzen_kerzenhalter"
+          },
+          "spiegel": {
+            "label": "Spiegel",
+            "id": "spiegel"
+          },
+          "vasen": {
+            "label": "Vasen",
+            "id": "vasen"
+          },
+          "weitere": {
+            "label": "Weitere Dekoration",
+            "id": "weitere"
+          }
+        }
+      }
+    }
+  },
+  "102": {
+    "label": "Jobs",
+    "id": "102",
+    "subcategories": {
+      "105": {
+        "label": "Kundenservice & Call Center",
+        "id": "105",
+        "subcategories": {}
+      },
+      "107": {
+        "label": "Mini- & Nebenjobs",
+        "id": "107",
+        "subcategories": {}
+      },
+      "109": {
+        "label": "Weitere Jobs",
+        "id": "109",
+        "subcategories": {
+          "designer_grafiker": {
+            "label": "Designer/-in & Grafiker/-in",
+            "id": "designer_grafiker"
+          },
+          "friseur": {
+            "label": "Friseur/-in",
+            "id": "friseur"
+          },
+          "haushaltshilfe": {
+            "label": "Haushaltshilfe",
+            "id": "haushaltshilfe"
+          },
+          "hausmeister": {
+            "label": "Hausmeister/-in",
+            "id": "hausmeister"
+          },
+          "reinigungskraft": {
+            "label": "Reinigungskraft",
+            "id": "reinigungskraft"
+          },
+          "weitere": {
+            "label": "Weitere Berufe",
+            "id": "weitere"
+          }
+        }
+      },
+      "110": {
+        "label": "Gastronomie & Tourismus",
+        "id": "110",
+        "subcategories": {
+          "barkeeper": {
+            "label": "Barkeeper/-in",
+            "id": "barkeeper"
+          },
+          "hotelfach": {
+            "label": "Hotelfachmann/-frau",
+            "id": "hotelfach"
+          },
+          "kellner": {
+            "label": "Kellner/-in",
+            "id": "kellner"
+          },
+          "koch": {
+            "label": "Koch/Köchin",
+            "id": "koch"
+          },
+          "kuechenhilfe": {
+            "label": "Küchenhilfe",
+            "id": "kuechenhilfe"
+          },
+          "servicekraft": {
+            "label": "Servicekraft",
+            "id": "servicekraft"
+          },
+          "zimmermaedchen": {
+            "label": "Housekeeping",
+            "id": "zimmermaedchen"
+          },
+          "weitere": {
+            "label": "Weitere Berufe",
+            "id": "weitere"
+          }
+        }
+      },
+      "111": {
+        "label": "Bau, Handwerk & Produktion",
+        "id": "111",
+        "subcategories": {
+          "bauhelfer": {
+            "label": "Bauhelfer/-in",
+            "id": "bauhelfer"
+          },
+          "dachdecker": {
+            "label": "Dachdecker/-in",
+            "id": "dachdecker"
+          },
+          "elektriker": {
+            "label": "Elektriker/-in",
+            "id": "elektriker"
+          },
+          "fliesenleger": {
+            "label": "Fliesenleger/-in",
+            "id": "fliesenleger"
+          },
+          "maler": {
+            "label": "Maler/-in",
+            "id": "maler"
+          },
+          "maurer": {
+            "label": "Maurer/-in",
+            "id": "maurer"
+          },
+          "produktionshelfer": {
+            "label": "Produktionshelfer/-in",
+            "id": "produktionshelfer"
+          },
+          "schlosser": {
+            "label": "Schlosser/-in",
+            "id": "schlosser"
+          },
+          "tischler": {
+            "label": "Tischler/-in",
+            "id": "tischler"
+          },
+          "weitere": {
+            "label": "Weitere Berufe",
+            "id": "weitere"
+          }
+        }
+      },
+      "114": {
+        "label": "Büroarbeit & Verwaltung",
+        "id": "114",
+        "subcategories": {
+          "buchhalter": {
+            "label": "Buchhalter/-in",
+            "id": "buchhalter"
+          },
+          "buerokauf": {
+            "label": "Bürokaufmann/-frau",
+            "id": "buerokauf"
+          },
+          "sachbearbeiter": {
+            "label": "Sachbearbeiter/-in",
+            "id": "sachbearbeiter"
+          },
+          "sekretaer": {
+            "label": "Sekretär/-in",
+            "id": "sekretaer"
+          },
+          "weitere": {
+            "label": "Weitere Berufe",
+            "id": "weitere"
+          }
+        }
+      },
+      "117": {
+        "label": "Vertrieb, Einkauf & Verkauf",
+        "id": "117",
+        "subcategories": {
+          "buchhalter": {
+            "label": "Buchhalter/-in",
+            "id": "buchhalter"
+          },
+          "immobilienmakler": {
+            "label": "Immobilienmakler/-in",
+            "id": "immobilienmakler"
+          },
+          "kauffrau": {
+            "label": "Kaufmann/-frau",
+            "id": "kauffrau"
+          },
+          "verkaeufer": {
+            "label": "Verkäufer/-in",
+            "id": "verkaeufer"
+          },
+          "weitere": {
+            "label": "Weitere Berufe",
+            "id": "weitere"
+          }
+        }
+      },
+      "118": {
+        "label": "Ausbildung",
+        "id": "118",
+        "subcategories": {}
+      },
+      "123": {
+        "label": "Sozialer Sektor & Pflege",
+        "id": "123",
+        "subcategories": {
+          "altenpfleger": {
+            "label": "Altenpfleger/-in",
+            "id": "altenpfleger"
+          },
+          "artzhelfer": {
+            "label": "Arzthelfer/-in",
+            "id": "artzhelfer"
+          },
+          "erzieher": {
+            "label": "Erzieher/-in",
+            "id": "erzieher"
+          },
+          "krankenschwester": {
+            "label": "Krankenpfleger/-in",
+            "id": "krankenschwester"
+          },
+          "physiotherapeut": {
+            "label": "Physiotherapeut/-in",
+            "id": "physiotherapeut"
+          },
+          "weitere": {
+            "label": "Weitere Berufe",
+            "id": "weitere"
+          }
+        }
+      },
+      "125": {
+        "label": "Praktika",
+        "id": "125",
+        "subcategories": {}
+      },
+      "247": {
+        "label": "Transport, Logistik & Verkehr",
+        "id": "247",
+        "subcategories": {
+          "kraftfahrer": {
+            "label": "Kraftfahrer/-in",
+            "id": "kraftfahrer"
+          },
+          "kurierfahrer": {
+            "label": "Kurierfahrer/-in",
+            "id": "kurierfahrer"
+          },
+          "lagerhelfer": {
+            "label": "Lagerhelfer/-in",
+            "id": "lagerhelfer"
+          },
+          "staplerfahrer": {
+            "label": "Staplerfahrer/-in",
+            "id": "staplerfahrer"
+          },
+          "weitere": {
+            "label": "Weitere Berufe",
+            "id": "weitere"
+          }
+        }
+      }
+    }
+  },
+  "130": {
+    "label": "Haustiere",
+    "id": "130",
+    "subcategories": {
+      "132": {
+        "label": "Kleintiere",
+        "id": "132",
+        "subcategories": {
+          "hamster": {
+            "label": "Hamster",
+            "id": "hamster"
+          },
+          "hasen_kaninchen": {
+            "label": "Hasen & Kaninchen",
+            "id": "hasen_kaninchen"
+          },
+          "maeuse_ratten": {
+            "label": "Mäuse & Ratten",
+            "id": "maeuse_ratten"
+          },
+          "meerschweinchen": {
+            "label": "Meerschweinchen",
+            "id": "meerschweinchen"
+          },
+          "sonstige": {
+            "label": "Weitere Kleintiere",
+            "id": "sonstige"
+          }
+        }
+      },
+      "133": {
+        "label": "Tierbetreuung & Training",
+        "id": "133",
+        "subcategories": {}
+      },
+      "134": {
+        "label": "Hunde",
+        "id": "134",
+        "subcategories": {
+          "mischlinge": {
+            "label": "Mischlinge",
+            "id": "mischlinge"
+          },
+          "beagle": {
+            "label": "Beagle",
+            "id": "beagle"
+          },
+          "bernhardiner": {
+            "label": "Bernhardiner",
+            "id": "bernhardiner"
+          },
+          "border_collie": {
+            "label": "Border Collie",
+            "id": "border_collie"
+          },
+          "boxer": {
+            "label": "Boxer",
+            "id": "boxer"
+          },
+          "cocker_spaniel": {
+            "label": "Cocker Spaniel",
+            "id": "cocker_spaniel"
+          },
+          "collie": {
+            "label": "Collie",
+            "id": "collie"
+          },
+          "dackel": {
+            "label": "Dackel",
+            "id": "dackel"
+          },
+          "dalmatiner": {
+            "label": "Dalmatiner",
+            "id": "dalmatiner"
+          },
+          "dobermann": {
+            "label": "Dobermann",
+            "id": "dobermann"
+          },
+          "dogge": {
+            "label": "Dogge",
+            "id": "dogge"
+          },
+          "goldenretriever": {
+            "label": "Golden Retriever",
+            "id": "goldenretriever"
+          },
+          "husky": {
+            "label": "Husky",
+            "id": "husky"
+          },
+          "jack_russel_terrier": {
+            "label": "Jack Russell Terrier",
+            "id": "jack_russel_terrier"
+          },
+          "labrador": {
+            "label": "Labrador",
+            "id": "labrador"
+          },
+          "malteser": {
+            "label": "Malteser",
+            "id": "malteser"
+          },
+          "pudel": {
+            "label": "Pudel",
+            "id": "pudel"
+          },
+          "schaeferhund": {
+            "label": "Schäferhunde",
+            "id": "schaeferhund"
+          },
+          "spitz": {
+            "label": "Spitz",
+            "id": "spitz"
+          },
+          "terrier": {
+            "label": "Terrier",
+            "id": "terrier"
+          },
+          "sonstige": {
+            "label": "Weitere Hunde",
+            "id": "sonstige"
+          }
+        }
+      },
+      "135": {
+        "label": "Nutztiere",
+        "id": "135",
+        "subcategories": {}
+      },
+      "136": {
+        "label": "Katzen",
+        "id": "136",
+        "subcategories": {
+          "britisch_kurzhaar": {
+            "label": "Britisch Kurzhaar",
+            "id": "britisch_kurzhaar"
+          },
+          "hauskatze": {
+            "label": "Hauskatze",
+            "id": "hauskatze"
+          },
+          "maine_coon": {
+            "label": "Maine Coon",
+            "id": "maine_coon"
+          },
+          "siam": {
+            "label": "Siam",
+            "id": "siam"
+          },
+          "sonstige": {
+            "label": "Weitere Katzen",
+            "id": "sonstige"
+          }
+        }
+      },
+      "138": {
+        "label": "Fische",
+        "id": "138",
+        "subcategories": {
+          "aquarium": {
+            "label": "Aquariumfische",
+            "id": "aquarium"
+          },
+          "barsche": {
+            "label": "Barsche",
+            "id": "barsche"
+          },
+          "diskusfische": {
+            "label": "Diskusfische",
+            "id": "diskusfische"
+          },
+          "garnelen_krebse": {
+            "label": "Garnelen & Krebse",
+            "id": "garnelen_krebse"
+          },
+          "koi": {
+            "label": "Koi",
+            "id": "koi"
+          },
+          "schnecken": {
+            "label": "Schnecken",
+            "id": "schnecken"
+          },
+          "wasserpflanzen": {
+            "label": "Wasserpflanzen",
+            "id": "wasserpflanzen"
+          },
+          "welse": {
+            "label": "Welse",
+            "id": "welse"
+          },
+          "sonstige": {
+            "label": "Weitere Fische",
+            "id": "sonstige"
+          }
+        }
+      },
+      "139": {
+        "label": "Pferde",
+        "id": "139",
+        "subcategories": {
+          "grosspferde": {
+            "label": "Großpferde",
+            "id": "grosspferde"
+          },
+          "kleinpferde_ponys": {
+            "label": "Kleinpferde & Ponys",
+            "id": "kleinpferde_ponys"
+          }
+        }
+      },
+      "243": {
+        "label": "Vögel",
+        "id": "243",
+        "subcategories": {}
+      },
+      "283": {
+        "label": "Vermisste Tiere",
+        "id": "283",
+        "subcategories": {
+          "entlaufen": {
+            "label": "Entlaufen",
+            "id": "entlaufen"
+          },
+          "gefunden": {
+            "label": "Gefunden",
+            "id": "gefunden"
+          }
+        }
+      },
+      "313": {
+        "label": "Zubehör",
+        "id": "313",
+        "subcategories": {
+          "fische": {
+            "label": "Fische",
+            "id": "fische"
+          },
+          "hunde": {
+            "label": "Hunde",
+            "id": "hunde"
+          },
+          "katzen": {
+            "label": "Katzen",
+            "id": "katzen"
+          },
+          "kleintiere": {
+            "label": "Kleintiere",
+            "id": "kleintiere"
+          },
+          "pferde": {
+            "label": "Pferde",
+            "id": "pferde"
+          },
+          "reptilien": {
+            "label": "Reptilien",
+            "id": "reptilien"
+          },
+          "voegel": {
+            "label": "Vögel",
+            "id": "voegel"
+          },
+          "sonstiges": {
+            "label": "Weiteres Zubehör Haustiere",
+            "id": "sonstiges"
+          }
+        }
+      }
+    }
+  },
+  "153": {
+    "label": "Mode & Beauty",
+    "id": "153",
+    "subcategories": {
+      "154": {
+        "label": "Damenbekleidung",
+        "id": "154",
+        "subcategories": {
+          "anzuege": {
+            "label": "Anzüge",
+            "id": "anzuege"
+          },
+          "bademode": {
+            "label": "Bademode",
+            "id": "bademode"
+          },
+          "hemden_blusen": {
+            "label": "Hemden & Blusen",
+            "id": "hemden_blusen"
+          },
+          "hochzeitsmode": {
+            "label": "Hochzeitsmode",
+            "id": "hochzeitsmode"
+          },
+          "hosen": {
+            "label": "Hosen",
+            "id": "hosen"
+          },
+          "jacken_maentel": {
+            "label": "Jacken & Mäntel",
+            "id": "jacken_maentel"
+          },
+          "jeans": {
+            "label": "Jeans",
+            "id": "jeans"
+          },
+          "kostueme_verkleidungen": {
+            "label": "Kostüme & Verkleidungen",
+            "id": "kostueme_verkleidungen"
+          },
+          "pullover": {
+            "label": "Pullover",
+            "id": "pullover"
+          },
+          "roecke_kleider": {
+            "label": "Röcke & Kleider",
+            "id": "roecke_kleider"
+          },
+          "shirts_tops": {
+            "label": "Shirts & Tops",
+            "id": "shirts_tops"
+          },
+          "shorts": {
+            "label": "Shorts",
+            "id": "shorts"
+          },
+          "sportbekleidung": {
+            "label": "Sportbekleidung",
+            "id": "sportbekleidung"
+          },
+          "umstandsmode": {
+            "label": "Umstandsmode",
+            "id": "umstandsmode"
+          },
+          "sonstige": {
+            "label": "Weitere Damenbekleidung",
+            "id": "sonstige"
+          }
+        }
+      },
+      "155": {
+        "label": "Weiteres Mode & Beauty",
+        "id": "155",
+        "subcategories": {}
+      },
+      "156": {
+        "label": "Taschen & Accessoires",
+        "id": "156",
+        "subcategories": {
+          "muetzen_schals_handschuhe": {
+            "label": "Mützen, Schals & Handschuhe",
+            "id": "muetzen_schals_handschuhe"
+          },
+          "sonnenbrillen": {
+            "label": "Sonnenbrillen",
+            "id": "sonnenbrillen"
+          },
+          "taschen_rucksaecke": {
+            "label": "Taschen & Rucksäcke",
+            "id": "taschen_rucksaecke"
+          },
+          "sonstiges": {
+            "label": "Weitere Taschen & Accessoires",
+            "id": "sonstiges"
+          }
+        }
+      },
+      "157": {
+        "label": "Uhren & Schmuck",
+        "id": "157",
+        "subcategories": {
+          "schmuck": {
+            "label": "Schmuck",
+            "id": "schmuck"
+          },
+          "uhren": {
+            "label": "Uhren",
+            "id": "uhren"
+          }
+        }
+      },
+      "158": {
+        "label": "Herrenschuhe",
+        "id": "158",
+        "subcategories": {
+          "halb_schnuerschuhe": {
+            "label": "Halb- & Schnürschuhe",
+            "id": "halb_schnuerschuhe"
+          },
+          "hausschuhe": {
+            "label": "Hausschuhe",
+            "id": "hausschuhe"
+          },
+          "sandalen": {
+            "label": "Sandalen",
+            "id": "sandalen"
+          },
+          "sneaker_sportschuhe": {
+            "label": "Sneaker & Sportschuhe",
+            "id": "sneaker_sportschuhe"
+          },
+          "stiefel": {
+            "label": "Stiefel & Stiefeletten",
+            "id": "stiefel"
+          },
+          "outdoor_wanderschuhe": {
+            "label": "Outdoor & Wanderschuhe",
+            "id": "outdoor_wanderschuhe"
+          },
+          "sonstiges": {
+            "label": "Weitere Schuhe",
+            "id": "sonstiges"
+          }
+        }
+      },
+      "159": {
+        "label": "Damenschuhe",
+        "id": "159",
+        "subcategories": {
+          "ballerinas": {
+            "label": "Ballerinas",
+            "id": "ballerinas"
+          },
+          "halb_schnuerschuhe": {
+            "label": "Halb- & Schnürschuhe",
+            "id": "halb_schnuerschuhe"
+          },
+          "hausschuhe": {
+            "label": "Hausschuhe",
+            "id": "hausschuhe"
+          },
+          "outdoor_wanderschuhe": {
+            "label": "Outdoor & Wanderschuhe",
+            "id": "outdoor_wanderschuhe"
+          },
+          "pumps": {
+            "label": "Pumps & High Heels",
+            "id": "pumps"
+          },
+          "sandalen": {
+            "label": "Sandalen",
+            "id": "sandalen"
+          },
+          "sneaker_sportschuhe": {
+            "label": "Sneaker & Sportschuhe",
+            "id": "sneaker_sportschuhe"
+          },
+          "stiefel": {
+            "label": "Stiefel & Stiefeletten",
+            "id": "stiefel"
+          },
+          "sonstiges": {
+            "label": "Weitere Schuhe",
+            "id": "sonstiges"
+          }
+        }
+      },
+      "160": {
+        "label": "Herrenbekleidung",
+        "id": "160",
+        "subcategories": {
+          "anzuege": {
+            "label": "Anzüge",
+            "id": "anzuege"
+          },
+          "bademode": {
+            "label": "Bademode",
+            "id": "bademode"
+          },
+          "hemden": {
+            "label": "Hemden",
+            "id": "hemden"
+          },
+          "hochzeitsmode": {
+            "label": "Hochzeitsmode",
+            "id": "hochzeitsmode"
+          },
+          "hosen": {
+            "label": "Hosen",
+            "id": "hosen"
+          },
+          "jacken_maentel": {
+            "label": "Jacken & Mäntel",
+            "id": "jacken_maentel"
+          },
+          "jeans": {
+            "label": "Jeans",
+            "id": "jeans"
+          },
+          "kostueme_verkleidungen": {
+            "label": "Kostüme & Verkleidungen",
+            "id": "kostueme_verkleidungen"
+          },
+          "pullover": {
+            "label": "Pullover",
+            "id": "pullover"
+          },
+          "shirts": {
+            "label": "Shirts",
+            "id": "shirts"
+          },
+          "shorts": {
+            "label": "Shorts",
+            "id": "shorts"
+          },
+          "sportbekleidung": {
+            "label": "Sportbekleidung",
+            "id": "sportbekleidung"
+          },
+          "sonstige": {
+            "label": "Weitere Herrenbekleidung",
+            "id": "sonstige"
+          }
+        }
+      },
+      "224": {
+        "label": "Beauty & Gesundheit",
+        "id": "224",
+        "subcategories": {
+          "make_up": {
+            "label": "Make-Up & Gesichtspflege",
+            "id": "make_up"
+          },
+          "haarpflege": {
+            "label": "Haarpflege",
+            "id": "haarpflege"
+          },
+          "koerperpflege": {
+            "label": "Körperpflege",
+            "id": "koerperpflege"
+          },
+          "handpflege": {
+            "label": "Hand- & Nagelpflege",
+            "id": "handpflege"
+          },
+          "gesundheit": {
+            "label": "Gesundheit",
+            "id": "gesundheit"
+          },
+          "sonstiges": {
+            "label": "Weiteres Beauty & Gesundheit",
+            "id": "sonstiges"
+          }
+        }
+      }
+    }
+  },
+  "161": {
+    "label": "Elektronik",
+    "id": "161",
+    "subcategories": {
+      "168": {
+        "label": "Weitere Elektronik",
+        "id": "168",
+        "subcategories": {}
+      },
+      "172": {
+        "label": "Audio & Hifi",
+        "id": "172",
+        "subcategories": {
+          "cd_player": {
+            "label": "CD Player",
+            "id": "cd_player"
+          },
+          "lautsprecher_kopfhoerer": {
+            "label": "Lautsprecher & Kopfhörer",
+            "id": "lautsprecher_kopfhoerer"
+          },
+          "mp3_player": {
+            "label": "MP3 Player",
+            "id": "mp3_player"
+          },
+          "radio_receiver": {
+            "label": "Radio & Receiver",
+            "id": "radio_receiver"
+          },
+          "stereoanlagen": {
+            "label": "Stereoanlagen",
+            "id": "stereoanlagen"
+          },
+          "sonstiges": {
+            "label": "Weiteres Audio & Hifi",
+            "id": "sonstiges"
+          }
+        }
+      },
+      "173": {
+        "label": "Handy & Telefon",
+        "id": "173",
+        "subcategories": {
+          "apple": {
+            "label": "Apple",
+            "id": "apple"
+          },
+          "google_handy": {
+            "label": "Google",
+            "id": "google_handy"
+          },
+          "htc_handy": {
+            "label": "HTC",
+            "id": "htc_handy"
+          },
+          "huawai_handy": {
+            "label": "Huawei",
+            "id": "huawai_handy"
+          },
+          "lg_handy": {
+            "label": "LG",
+            "id": "lg_handy"
+          },
+          "motorola_handy": {
+            "label": "Motorola",
+            "id": "motorola_handy"
+          },
+          "nokia_handy": {
+            "label": "Nokia",
+            "id": "nokia_handy"
+          },
+          "samsung_handy": {
+            "label": "Samsung",
+            "id": "samsung_handy"
+          },
+          "siemens_handy": {
+            "label": "Siemens",
+            "id": "siemens_handy"
+          },
+          "sony_handy": {
+            "label": "Sony",
+            "id": "sony_handy"
+          },
+          "xiaomi_handy": {
+            "label": "Xiaomi",
+            "id": "xiaomi_handy"
+          },
+          "faxgeraete": {
+            "label": "Faxgeräte",
+            "id": "faxgeraete"
+          },
+          "telefone": {
+            "label": "Telefone",
+            "id": "telefone"
+          },
+          "sonstige": {
+            "label": "Weitere Handys & Telefone",
+            "id": "sonstige"
+          }
+        }
+      },
+      "175": {
+        "label": "TV & Video",
+        "id": "175",
+        "subcategories": {
+          "dvdplayer_recorder": {
+            "label": "DVD-Player & Recorder",
+            "id": "dvdplayer_recorder"
+          },
+          "fernseher": {
+            "label": "Fernseher",
+            "id": "fernseher"
+          },
+          "tv_receiver": {
+            "label": "TV-Receiver",
+            "id": "tv_receiver"
+          },
+          "weitere": {
+            "label": "Weitere TV & Video",
+            "id": "weitere"
+          }
+        }
+      },
+      "176": {
+        "label": "Haushaltsgeräte",
+        "id": "176",
+        "subcategories": {
+          "haushaltskleingeraete": {
+            "label": "Haushaltskleingeräte",
+            "id": "haushaltskleingeraete"
+          },
+          "herde_backoefen": {
+            "label": "Herde & Backöfen",
+            "id": "herde_backoefen"
+          },
+          "kaffee_espressomaschinen": {
+            "label": "Kaffee- & Espressomaschinen",
+            "id": "kaffee_espressomaschinen"
+          },
+          "kuehlschraenke_gefriergeraete": {
+            "label": "Kühlschränke & Gefriergeräte",
+            "id": "kuehlschraenke_gefriergeraete"
+          },
+          "spuelmaschinen": {
+            "label": "Spülmaschinen",
+            "id": "spuelmaschinen"
+          },
+          "staubsauger": {
+            "label": "Staubsauger",
+            "id": "staubsauger"
+          },
+          "waschmaschinen_trockner": {
+            "label": "Waschmaschinen & Trockner",
+            "id": "waschmaschinen_trockner"
+          },
+          "sonstige": {
+            "label": "Weitere Haushaltsgeräte",
+            "id": "sonstige"
+          }
+        }
+      },
+      "225": {
+        "label": "PC-Zubehör & Software",
+        "id": "225",
+        "subcategories": {
+          "drucker_scanner": {
+            "label": "Drucker & Scanner",
+            "id": "drucker_scanner"
+          },
+          "festplatten_laufwerke": {
+            "label": "Festplatten & Laufwerke",
+            "id": "festplatten_laufwerke"
+          },
+          "gehaeuse": {
+            "label": "Gehäuse",
+            "id": "gehaeuse"
+          },
+          "grafikkarten": {
+            "label": "Grafikkarten",
+            "id": "grafikkarten"
+          },
+          "kabel_adapter": {
+            "label": "Kabel & Adapter",
+            "id": "kabel_adapter"
+          },
+          "mainboards": {
+            "label": "Mainboards",
+            "id": "mainboards"
+          },
+          "monitore": {
+            "label": "Monitore",
+            "id": "monitore"
+          },
+          "multimedia": {
+            "label": "Multimedia",
+            "id": "multimedia"
+          },
+          "netzwerk_modem": {
+            "label": "Netzwerk & Modem",
+            "id": "netzwerk_modem"
+          },
+          "prozessor_cpu": {
+            "label": "Prozessoren / CPUs",
+            "id": "prozessor_cpu"
+          },
+          "speicher": {
+            "label": "Speicher",
+            "id": "speicher"
+          },
+          "software": {
+            "label": "Software",
+            "id": "software"
+          },
+          "tastatur_maus": {
+            "label": "Tastatur & Maus",
+            "id": "tastatur_maus"
+          },
+          "sonstiges": {
+            "label": "Weiteres PC-Zubehör",
+            "id": "sonstiges"
+          }
+        }
+      },
+      "226": {
+        "label": "Dienstleistungen Elektronik",
+        "id": "226",
+        "subcategories": {}
+      },
+      "227": {
+        "label": "Videospiele",
+        "id": "227",
+        "subcategories": {
+          "dsi_psp": {
+            "label": "DS(i)- & PSP Spiele",
+            "id": "dsi_psp"
+          },
+          "nintendo": {
+            "label": "Nintendo Spiele",
+            "id": "nintendo"
+          },
+          "playstation": {
+            "label": "PlayStation Spiele",
+            "id": "playstation"
+          },
+          "xbox": {
+            "label": "Xbox Spiele",
+            "id": "xbox"
+          },
+          "wii": {
+            "label": "Wii Spiele",
+            "id": "wii"
+          },
+          "pc_spiele": {
+            "label": "PC Spiele",
+            "id": "pc_spiele"
+          },
+          "sonstige": {
+            "label": "Weitere Videospiele",
+            "id": "sonstige"
+          }
+        }
+      },
+      "228": {
+        "label": "PCs",
+        "id": "228",
+        "subcategories": {}
+      },
+      "245": {
+        "label": "Foto",
+        "id": "245",
+        "subcategories": {
+          "camera": {
+            "label": "Kamera",
+            "id": "camera"
+          },
+          "lens": {
+            "label": "Objektiv",
+            "id": "lens"
+          },
+          "equipment": {
+            "label": "Zubehör",
+            "id": "equipment"
+          },
+          "camera_and_equipment": {
+            "label": "Kamera & Zubehör",
+            "id": "camera_and_equipment"
+          },
+          "other": {
+            "label": "Weiteres Foto",
+            "id": "other"
+          }
+        }
+      },
+      "278": {
+        "label": "Laptops & Notebooks",
+        "id": "278",
+        "subcategories": {}
+      },
+      "279": {
+        "label": "Konsolen",
+        "id": "279",
+        "subcategories": {
+          "playstation": {
+            "label": "PlayStation",
+            "id": "playstation"
+          },
+          "xbox": {
+            "label": "Xbox",
+            "id": "xbox"
+          },
+          "nintendo": {
+            "label": "Nintendo",
+            "id": "nintendo"
+          },
+          "sega": {
+            "label": "SEGA",
+            "id": "sega"
+          },
+          "atari": {
+            "label": "Atari",
+            "id": "atari"
+          },
+          "snk": {
+            "label": "SNK",
+            "id": "snk"
+          },
+          "steam": {
+            "label": "Steam",
+            "id": "steam"
+          },
+          "weitere": {
+            "label": "Andere Konsole",
+            "id": "weitere"
+          }
+        }
+      },
+      "285": {
+        "label": "Tablets & Reader",
+        "id": "285",
+        "subcategories": {
+          "ipad": {
+            "label": "iPad",
+            "id": "ipad"
+          },
+          "kindle": {
+            "label": "Kindle",
+            "id": "kindle"
+          },
+          "samsung_tablets": {
+            "label": "Samsung Tablets",
+            "id": "samsung_tablets"
+          },
+          "weitere": {
+            "label": "Weitere Tablets & Reader",
+            "id": "weitere"
+          }
+        }
+      },
+      "405": {
+        "label": "Wearables",
+        "id": "405",
+        "subcategories": {
+          "smartwatches": {
+            "label": "Smartwatches",
+            "id": "smartwatches"
+          },
+          "fitness_tracker": {
+            "label": "Fitness-Tracker",
+            "id": "fitness_tracker"
+          },
+          "smart_rings": {
+            "label": "Smart Rings",
+            "id": "smart_rings"
+          },
+          "weitere_wearables": {
+            "label": "Weitere Wearables",
+            "id": "weitere_wearables"
+          }
+        }
+      },
+      "406": {
+        "label": "Wearables Zubehör",
+        "id": "406",
+        "subcategories": {
+          "ladegerate_kabel": {
+            "label": "Ladegeräte & Kabel",
+            "id": "ladegerate_kabel"
+          },
+          "armbander": {
+            "label": "Armbänder",
+            "id": "armbander"
+          },
+          "ersatzteile": {
+            "label": "Ersatzteile",
+            "id": "ersatzteile"
+          },
+          "halterungen": {
+            "label": "Halterungen",
+            "id": "halterungen"
+          },
+          "huellen_schutz": {
+            "label": "Hüllen & Schutz",
+            "id": "huellen_schutz"
+          },
+          "weiteres_zubehor": {
+            "label": "Weiteres Zubehör",
+            "id": "weiteres_zubehor"
+          }
+        }
+      }
+    }
+  },
+  "185": {
+    "label": "Freizeit, Hobby & Nachbarschaft",
+    "id": "185",
+    "subcategories": {
+      "187": {
+        "label": "Freizeitaktivitäten",
+        "id": "187",
+        "subcategories": {}
+      },
+      "189": {
+        "label": "Verloren & Gefunden",
+        "id": "189",
+        "subcategories": {}
+      },
+      "191": {
+        "label": "Künstler/-in & Musiker/-in",
+        "id": "191",
+        "subcategories": {}
+      },
+      "230": {
+        "label": "Sport & Camping",
+        "id": "230",
+        "subcategories": {
+          "ballsport": {
+            "label": "Ballsport",
+            "id": "ballsport"
+          },
+          "camping": {
+            "label": "Camping & Outdoor",
+            "id": "camping"
+          },
+          "fitness": {
+            "label": "Fitness",
+            "id": "fitness"
+          },
+          "radsport": {
+            "label": "Radsport",
+            "id": "radsport"
+          },
+          "tanzen_laufen": {
+            "label": "Tanzen & Laufen",
+            "id": "tanzen_laufen"
+          },
+          "wassersport": {
+            "label": "Wassersport",
+            "id": "wassersport"
+          },
+          "wintersport": {
+            "label": "Wintersport",
+            "id": "wintersport"
+          },
+          "sonstige": {
+            "label": "Weiteres Sport & Camping",
+            "id": "sonstige"
+          }
+        }
+      },
+      "232": {
+        "label": "Esoterik & Spirituelles",
+        "id": "232",
+        "subcategories": {}
+      },
+      "233": {
+        "label": "Reise & Eventservices",
+        "id": "233",
+        "subcategories": {}
+      },
+      "234": {
+        "label": "Sammeln",
+        "id": "234",
+        "subcategories": {
+          "ansichts_postkarten": {
+            "label": "Ansichts- & Postkarten",
+            "id": "ansichts_postkarten"
+          },
+          "autogramme": {
+            "label": "Autogramme",
+            "id": "autogramme"
+          },
+          "bierkruege_glaeser": {
+            "label": "Bierkrüge & -gläser",
+            "id": "bierkruege_glaeser"
+          },
+          "briefmarken": {
+            "label": "Briefmarken",
+            "id": "briefmarken"
+          },
+          "comics": {
+            "label": "Comics",
+            "id": "comics"
+          },
+          "flaggen": {
+            "label": "Flaggen",
+            "id": "flaggen"
+          },
+          "muenzen": {
+            "label": "Münzen",
+            "id": "muenzen"
+          },
+          "porzellan": {
+            "label": "Porzellan",
+            "id": "porzellan"
+          },
+          "puppen_puppenzubehoer": {
+            "label": "Puppen & Puppenzubehör",
+            "id": "puppen_puppenzubehoer"
+          },
+          "sammelbilder_sticker": {
+            "label": "Sammelbilder & Sticker",
+            "id": "sammelbilder_sticker"
+          },
+          "sammelkartenspiele": {
+            "label": "Sammelkartenspiele",
+            "id": "sammelkartenspiele"
+          },
+          "ueberraschungseier": {
+            "label": "Überraschungseier",
+            "id": "ueberraschungseier"
+          },
+          "werbeartikel": {
+            "label": "Werbeartikel",
+            "id": "werbeartikel"
+          },
+          "sonstige": {
+            "label": "Weiteres Sammeln",
+            "id": "sonstige"
+          }
+        }
+      },
+      "240": {
+        "label": "Kunst & Antiquitäten",
+        "id": "240",
+        "subcategories": {}
+      },
+      "242": {
+        "label": "Weiteres Freizeit, Hobby & Nachbarschaft",
+        "id": "242",
+        "subcategories": {}
+      },
+      "248": {
+        "label": "Essen & Trinken",
+        "id": "248",
+        "subcategories": {}
+      },
+      "249": {
+        "label": "Modellbau",
+        "id": "249",
+        "subcategories": {}
+      },
+      "250": {
+        "label": "Trödel",
+        "id": "250",
+        "subcategories": {}
+      },
+      "282": {
+        "label": "Handarbeit, Basteln & Kunsthandwerk",
+        "id": "282",
+        "subcategories": {}
+      }
+    }
+  },
+  "195": {
+    "label": "Immobilien",
+    "id": "195",
+    "subcategories": {
+      "196": {
+        "label": "Eigentumswohnungen",
+        "id": "196",
+        "subcategories": {}
+      },
+      "197": {
+        "label": "Garagen & Stellplätze",
+        "id": "197",
+        "subcategories": {
+          "kaufen": {
+            "label": "Kaufen",
+            "id": "kaufen"
+          },
+          "mieten": {
+            "label": "Mieten",
+            "id": "mieten"
+          }
+        }
+      },
+      "198": {
+        "label": "Weitere Immobilien",
+        "id": "198",
+        "subcategories": {}
+      },
+      "199": {
+        "label": "Auf Zeit & WG",
+        "id": "199",
+        "subcategories": {
+          "entire_accommodation": {
+            "label": "Gesamte Unterkunft",
+            "id": "entire_accommodation"
+          },
+          "private_room": {
+            "label": "Privatzimmer",
+            "id": "private_room"
+          },
+          "shared_room": {
+            "label": "Gemeinsames Zimmer",
+            "id": "shared_room"
+          }
+        }
+      },
+      "203": {
+        "label": "Mietwohnungen",
+        "id": "203",
+        "subcategories": {}
+      },
+      "205": {
+        "label": "Häuser zur Miete",
+        "id": "205",
+        "subcategories": {}
+      },
+      "207": {
+        "label": "Grundstücke & Gärten",
+        "id": "207",
+        "subcategories": {
+          "baugrundstueck": {
+            "label": "Baugrundstück",
+            "id": "baugrundstueck"
+          },
+          "garten": {
+            "label": "Garten",
+            "id": "garten"
+          },
+          "land_forstwirtschaft": {
+            "label": "Land-/Forstwirtschaft",
+            "id": "land_forstwirtschaft"
+          },
+          "andere": {
+            "label": "Weitere Grundstücke & Gärten",
+            "id": "andere"
+          }
+        }
+      },
+      "208": {
+        "label": "Häuser zum Kauf",
+        "id": "208",
+        "subcategories": {}
+      },
+      "238": {
+        "label": "Umzug & Transport",
+        "id": "238",
+        "subcategories": {}
+      },
+      "275": {
+        "label": "Ferien- & Auslandsimmobilien",
+        "id": "275",
+        "subcategories": {
+          "kaufen": {
+            "label": "Kaufen",
+            "id": "kaufen"
+          },
+          "mieten": {
+            "label": "Mieten",
+            "id": "mieten"
+          }
+        }
+      },
+      "277": {
+        "label": "Gewerbeimmobilien",
+        "id": "277",
+        "subcategories": {
+          "kaufen": {
+            "label": "Kaufen",
+            "id": "kaufen"
+          },
+          "mieten": {
+            "label": "Mieten",
+            "id": "mieten"
+          }
+        }
+      },
+      "402": {
+        "label": "Container",
+        "id": "402",
+        "subcategories": {
+          "kaufen": {
+            "label": "Kaufen",
+            "id": "kaufen"
+          },
+          "mieten": {
+            "label": "Mieten",
+            "id": "mieten"
+          }
+        }
+      }
+    }
+  },
+  "210": {
+    "label": "Auto, Rad & Boot",
+    "id": "210",
+    "subcategories": {
+      "211": {
+        "label": "Boote & Bootszubehör",
+        "id": "211",
+        "subcategories": {
+          "motorboote": {
+            "label": "Motorboote",
+            "id": "motorboote"
+          },
+          "segelboote": {
+            "label": "Segelboote",
+            "id": "segelboote"
+          },
+          "kleinboote": {
+            "label": "Kleinboote",
+            "id": "kleinboote"
+          },
+          "schlauchboote": {
+            "label": "Schlauchboote",
+            "id": "schlauchboote"
+          },
+          "jetski": {
+            "label": "Jetski",
+            "id": "jetski"
+          },
+          "bootstrailer": {
+            "label": "Bootstrailer",
+            "id": "bootstrailer"
+          },
+          "bootsliegeplaetze": {
+            "label": "Bootsliegeplätze",
+            "id": "bootsliegeplaetze"
+          },
+          "bootszubehoer": {
+            "label": "Bootszubehör",
+            "id": "bootszubehoer"
+          },
+          "andere": {
+            "label": "Weitere Boote",
+            "id": "andere"
+          }
+        }
+      },
+      "216": {
+        "label": "Autos",
+        "id": "216",
+        "subcategories": {
+          "abarth": {
+            "label": "Abarth",
+            "id": "abarth"
+          },
+          "aixam": {
+            "label": "Aixam",
+            "id": "aixam"
+          },
+          "alfa_romeo": {
+            "label": "Alfa Romeo",
+            "id": "alfa_romeo"
+          },
+          "aston_martin": {
+            "label": "Aston Martin",
+            "id": "aston_martin"
+          },
+          "audi": {
+            "label": "Audi",
+            "id": "audi"
+          },
+          "bentley": {
+            "label": "Bentley",
+            "id": "bentley"
+          },
+          "bmw": {
+            "label": "BMW",
+            "id": "bmw"
+          },
+          "byd": {
+            "label": "BYD",
+            "id": "byd"
+          },
+          "cadillac": {
+            "label": "Cadillac",
+            "id": "cadillac"
+          },
+          "chevrolet": {
+            "label": "Chevrolet",
+            "id": "chevrolet"
+          },
+          "chrysler": {
+            "label": "Chrysler",
+            "id": "chrysler"
+          },
+          "citroen": {
+            "label": "Citroen",
+            "id": "citroen"
+          },
+          "corvette": {
+            "label": "Corvette",
+            "id": "corvette"
+          },
+          "cupra": {
+            "label": "Cupra",
+            "id": "cupra"
+          },
+          "dacia": {
+            "label": "Dacia",
+            "id": "dacia"
+          },
+          "daewoo": {
+            "label": "Daewoo",
+            "id": "daewoo"
+          },
+          "daihatsu": {
+            "label": "Daihatsu",
+            "id": "daihatsu"
+          },
+          "dodge": {
+            "label": "Dodge",
+            "id": "dodge"
+          },
+          "ds": {
+            "label": "DS Automobiles",
+            "id": "ds"
+          },
+          "ferrari": {
+            "label": "Ferrari",
+            "id": "ferrari"
+          },
+          "fiat": {
+            "label": "Fiat",
+            "id": "fiat"
+          },
+          "ford": {
+            "label": "Ford",
+            "id": "ford"
+          },
+          "honda": {
+            "label": "Honda",
+            "id": "honda"
+          },
+          "hyundai": {
+            "label": "Hyundai",
+            "id": "hyundai"
+          },
+          "infiniti": {
+            "label": "Infiniti",
+            "id": "infiniti"
+          },
+          "iveco": {
+            "label": "Iveco",
+            "id": "iveco"
+          },
+          "jaguar": {
+            "label": "Jaguar",
+            "id": "jaguar"
+          },
+          "jeep": {
+            "label": "Jeep",
+            "id": "jeep"
+          },
+          "kgm": {
+            "label": "KGM",
+            "id": "kgm"
+          },
+          "kia": {
+            "label": "Kia",
+            "id": "kia"
+          },
+          "lada": {
+            "label": "Lada",
+            "id": "lada"
+          },
+          "lamborghini": {
+            "label": "Lamborghini",
+            "id": "lamborghini"
+          },
+          "lancia": {
+            "label": "Lancia",
+            "id": "lancia"
+          },
+          "land_rover": {
+            "label": "Land Rover",
+            "id": "land_rover"
+          },
+          "lexus": {
+            "label": "Lexus",
+            "id": "lexus"
+          },
+          "maserati": {
+            "label": "Maserati",
+            "id": "maserati"
+          },
+          "mazda": {
+            "label": "Mazda",
+            "id": "mazda"
+          },
+          "mercedes_benz": {
+            "label": "Mercedes Benz",
+            "id": "mercedes_benz"
+          },
+          "mg": {
+            "label": "MG",
+            "id": "mg"
+          },
+          "microcar": {
+            "label": "Microcar",
+            "id": "microcar"
+          },
+          "mini": {
+            "label": "Mini",
+            "id": "mini"
+          },
+          "mitsubishi": {
+            "label": "Mitsubishi",
+            "id": "mitsubishi"
+          },
+          "nissan": {
+            "label": "Nissan",
+            "id": "nissan"
+          },
+          "opel": {
+            "label": "Opel",
+            "id": "opel"
+          },
+          "peugeot": {
+            "label": "Peugeot",
+            "id": "peugeot"
+          },
+          "polestar": {
+            "label": "Polestar",
+            "id": "polestar"
+          },
+          "porsche": {
+            "label": "Porsche",
+            "id": "porsche"
+          },
+          "renault": {
+            "label": "Renault",
+            "id": "renault"
+          },
+          "rolls_royce": {
+            "label": "Rolls-Royce",
+            "id": "rolls_royce"
+          },
+          "rover": {
+            "label": "Rover",
+            "id": "rover"
+          },
+          "saab": {
+            "label": "Saab",
+            "id": "saab"
+          },
+          "seat": {
+            "label": "Seat",
+            "id": "seat"
+          },
+          "skoda": {
+            "label": "Skoda",
+            "id": "skoda"
+          },
+          "smart": {
+            "label": "Smart",
+            "id": "smart"
+          },
+          "ssangyong": {
+            "label": "Ssangyong",
+            "id": "ssangyong"
+          },
+          "subaru": {
+            "label": "Subaru",
+            "id": "subaru"
+          },
+          "suzuki": {
+            "label": "Suzuki",
+            "id": "suzuki"
+          },
+          "tesla": {
+            "label": "Tesla",
+            "id": "tesla"
+          },
+          "toyota": {
+            "label": "Toyota",
+            "id": "toyota"
+          },
+          "trabant": {
+            "label": "Trabant",
+            "id": "trabant"
+          },
+          "triumph": {
+            "label": "Triumph",
+            "id": "triumph"
+          },
+          "volkswagen": {
+            "label": "Volkswagen",
+            "id": "volkswagen"
+          },
+          "volvo": {
+            "label": "Volvo",
+            "id": "volvo"
+          },
+          "wartburg": {
+            "label": "Wartburg",
+            "id": "wartburg"
+          },
+          "sonstige_autos": {
+            "label": "Weitere Automarken",
+            "id": "sonstige_autos"
+          }
+        }
+      },
+      "217": {
+        "label": "Fahrräder & Zubehör",
+        "id": "217",
+        "subcategories": {
+          "damen": {
+            "label": "Damen",
+            "id": "damen"
+          },
+          "herren": {
+            "label": "Herren",
+            "id": "herren"
+          },
+          "kinder": {
+            "label": "Kinder",
+            "id": "kinder"
+          },
+          "zubehoer": {
+            "label": "Zubehör",
+            "id": "zubehoer"
+          },
+          "weiteres": {
+            "label": "Weitere Fahrräder & Zubehör",
+            "id": "weiteres"
+          }
+        }
+      },
+      "220": {
+        "label": "Wohnwagen & -mobile",
+        "id": "220",
+        "subcategories": {
+          "alkoven": {
+            "label": "Alkoven",
+            "id": "alkoven"
+          },
+          "integrierter": {
+            "label": "Integrierter",
+            "id": "integrierter"
+          },
+          "kastenwagen": {
+            "label": "Kastenwagen",
+            "id": "kastenwagen"
+          },
+          "teilintegrierter": {
+            "label": "Teilintegrierter",
+            "id": "teilintegrierter"
+          },
+          "wohnwagen": {
+            "label": "Wohnwagen",
+            "id": "wohnwagen"
+          },
+          "andere": {
+            "label": "Weitere Wohnwagen & -mobile",
+            "id": "andere"
+          }
+        }
+      },
+      "223": {
+        "label": "Autoteile & Reifen",
+        "id": "223",
+        "subcategories": {
+          "auto_hifi_navigation": {
+            "label": "Auto Hifi & Navigation",
+            "id": "auto_hifi_navigation"
+          },
+          "ersatz_reparaturteile": {
+            "label": "Ersatz- & Reparaturteile",
+            "id": "ersatz_reparaturteile"
+          },
+          "reifen_felgen": {
+            "label": "Reifen & Felgen",
+            "id": "reifen_felgen"
+          },
+          "tuning_styling": {
+            "label": "Tuning & Styling",
+            "id": "tuning_styling"
+          },
+          "werkzeug": {
+            "label": "Werkzeug",
+            "id": "werkzeug"
+          },
+          "sonstige_autoteile": {
+            "label": "Weitere Autoteile",
+            "id": "sonstige_autoteile"
+          }
+        }
+      },
+      "241": {
+        "label": "Weiteres Auto, Rad & Boot",
+        "id": "241",
+        "subcategories": {}
+      },
+      "276": {
+        "label": "Nutzfahrzeuge & Anhänger",
+        "id": "276",
+        "subcategories": {
+          "agrarfahrzeuge": {
+            "label": "Agrarfahrzeuge",
+            "id": "agrarfahrzeuge"
+          },
+          "anhaenger": {
+            "label": "Anhänger",
+            "id": "anhaenger"
+          },
+          "baumaschinen": {
+            "label": "Baumaschinen",
+            "id": "baumaschinen"
+          },
+          "busse": {
+            "label": "Busse",
+            "id": "busse"
+          },
+          "lkw": {
+            "label": "LKW",
+            "id": "lkw"
+          },
+          "sattelzugmaschinen_auflieger": {
+            "label": "Sattelzugmaschinen & Auflieger",
+            "id": "sattelzugmaschinen_auflieger"
+          },
+          "stapler": {
+            "label": "Stapler",
+            "id": "stapler"
+          },
+          "traktoren": {
+            "label": "Traktoren",
+            "id": "traktoren"
+          },
+          "transporter": {
+            "label": "Transporter",
+            "id": "transporter"
+          },
+          "zubehoer": {
+            "label": "Nutzfahrzeugteile & Zubehör",
+            "id": "zubehoer"
+          },
+          "andere": {
+            "label": "Weitere Nutzfahrzeuge & Anhänger",
+            "id": "andere"
+          }
+        }
+      },
+      "280": {
+        "label": "Reparaturen & Dienstleistungen",
+        "id": "280",
+        "subcategories": {}
+      },
+      "305": {
+        "label": "Motorräder & Motorroller",
+        "id": "305",
+        "subcategories": {
+          "mofa": {
+            "label": "Mofas & Mopeds",
+            "id": "mofa"
+          },
+          "motorrad": {
+            "label": "Motorräder",
+            "id": "motorrad"
+          },
+          "quad": {
+            "label": "Quads",
+            "id": "quad"
+          },
+          "roller": {
+            "label": "Motorroller & Scooter",
+            "id": "roller"
+          }
+        }
+      },
+      "306": {
+        "label": "Motorradteile & Zubehör",
+        "id": "306",
+        "subcategories": {
+          "teile": {
+            "label": "Ersatz- & Reparaturteile",
+            "id": "teile"
+          },
+          "reifen_felgen": {
+            "label": "Reifen & Felgen",
+            "id": "reifen_felgen"
+          },
+          "kleidung": {
+            "label": "Motorradbekleidung",
+            "id": "kleidung"
+          }
+        }
+      }
+    }
+  },
+  "231": {
+    "label": "Eintrittskarten & Tickets",
+    "id": "231",
+    "subcategories": {
+      "251": {
+        "label": "Theater & Musical",
+        "id": "251",
+        "subcategories": {}
+      },
+      "252": {
+        "label": "Kinder",
+        "id": "252",
+        "subcategories": {}
+      },
+      "254": {
+        "label": "Comedy & Kabarett",
+        "id": "254",
+        "subcategories": {}
+      },
+      "255": {
+        "label": "Konzerte",
+        "id": "255",
+        "subcategories": {}
+      },
+      "256": {
+        "label": "Weitere Eintrittskarten & Tickets",
+        "id": "256",
+        "subcategories": {}
+      },
+      "257": {
+        "label": "Sport",
+        "id": "257",
+        "subcategories": {}
+      },
+      "286": {
+        "label": "Bahn & ÖPNV",
+        "id": "286",
+        "subcategories": {}
+      },
+      "287": {
+        "label": "Gutscheine",
+        "id": "287",
+        "subcategories": {}
+      }
+    }
+  },
+  "235": {
+    "label": "Unterricht & Kurse",
+    "id": "235",
+    "subcategories": {
+      "260": {
+        "label": "Computerkurse",
+        "id": "260",
+        "subcategories": {}
+      },
+      "261": {
+        "label": "Sportkurse",
+        "id": "261",
+        "subcategories": {}
+      },
+      "262": {
+        "label": "Musik & Gesang",
+        "id": "262",
+        "subcategories": {}
+      },
+      "263": {
+        "label": "Kochen & Backen",
+        "id": "263",
+        "subcategories": {}
+      },
+      "264": {
+        "label": "Kunst & Gestaltung",
+        "id": "264",
+        "subcategories": {}
+      },
+      "265": {
+        "label": "Esoterik & Spirituelles",
+        "id": "265",
+        "subcategories": {}
+      },
+      "266": {
+        "label": "Weiterbildung",
+        "id": "266",
+        "subcategories": {}
+      },
+      "267": {
+        "label": "Tanzkurse",
+        "id": "267",
+        "subcategories": {}
+      },
+      "268": {
+        "label": "Nachhilfe",
+        "id": "268",
+        "subcategories": {}
+      },
+      "269": {
+        "label": "Beauty & Gesundheit",
+        "id": "269",
+        "subcategories": {}
+      },
+      "270": {
+        "label": "Weitere Unterricht & Kurse",
+        "id": "270",
+        "subcategories": {}
+      },
+      "271": {
+        "label": "Sprachkurse",
+        "id": "271",
+        "subcategories": {}
+      }
+    }
+  },
+  "272": {
+    "label": "Verschenken & Tauschen",
+    "id": "272",
+    "subcategories": {
+      "192": {
+        "label": "Verschenken",
+        "id": "192",
+        "subcategories": {}
+      },
+      "273": {
+        "label": "Tauschen",
+        "id": "273",
+        "subcategories": {}
+      },
+      "274": {
+        "label": "Verleihen",
+        "id": "274",
+        "subcategories": {}
+      }
+    }
+  },
+  "297": {
+    "label": "Dienstleistungen",
+    "id": "297",
+    "subcategories": {
+      "288": {
+        "label": "Altenpflege",
+        "id": "288",
+        "subcategories": {}
+      },
+      "289": {
+        "label": "Auto, Rad & Boot",
+        "id": "289",
+        "subcategories": {}
+      },
+      "290": {
+        "label": "Babysitter/-in & Kinderbetreuung",
+        "id": "290",
+        "subcategories": {}
+      },
+      "291": {
+        "label": "Haus & Garten",
+        "id": "291",
+        "subcategories": {
+          "bau_handwerk": {
+            "label": "Bau & Handwerk",
+            "id": "bau_handwerk"
+          },
+          "garten_landschaftsbau": {
+            "label": "Garten- & Landschaftsbau",
+            "id": "garten_landschaftsbau"
+          },
+          "haushaltshilfe": {
+            "label": "Haushaltshilfe",
+            "id": "haushaltshilfe"
+          },
+          "reingungsservice": {
+            "label": "Reinigungsservice",
+            "id": "reingungsservice"
+          },
+          "reparaturen": {
+            "label": "Reparaturen",
+            "id": "reparaturen"
+          },
+          "wohnungsaufloesungen": {
+            "label": "Wohnungsauflösungen",
+            "id": "wohnungsaufloesungen"
+          },
+          "sonstige": {
+            "label": "Weitere Dienstleistungen Haus & Garten",
+            "id": "sonstige"
+          }
+        }
+      },
+      "292": {
+        "label": "Künstler/-in & Musiker/-in",
+        "id": "292",
+        "subcategories": {}
+      },
+      "293": {
+        "label": "Elektronik",
+        "id": "293",
+        "subcategories": {}
+      },
+      "294": {
+        "label": "Reise & Event",
+        "id": "294",
+        "subcategories": {}
+      },
+      "295": {
+        "label": "Tierbetreuung & Training",
+        "id": "295",
+        "subcategories": {}
+      },
+      "296": {
+        "label": "Umzug & Transport",
+        "id": "296",
+        "subcategories": {}
+      },
+      "298": {
+        "label": "Weitere Dienstleistungen",
+        "id": "298",
+        "subcategories": {}
+      }
+    }
+  },
+  "400": {
+    "label": "Nachbarschaftshilfe",
+    "id": "400",
+    "subcategories": {
+      "401": {
+        "label": "Nachbarschaftshilfe",
+        "id": "401",
+        "subcategories": {}
+      }
+    }
+  }
+}

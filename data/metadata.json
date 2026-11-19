@@ -1,0 +1,20 @@
+{
+  "dataset": "Kleinanzeigen category reference",
+  "snapshot_source": "AnzeigenBoost application category map",
+  "source_file": "backend/src/config/kleinanzeigen-category-map.json",
+  "source_last_change_commit": "43e8b856c41934e053e4111a77cd784feef07b86",
+  "source_last_change_date": "2026-10-17",
+  "publication_date": "2026-11-20",
+  "live_site_verified_at_publication": false,
+  "levels": {
+    "top_level_categories": 15,
+    "subcategories": 143,
+    "third_level_labels": 476
+  },
+  "limitations": [
+    "Snapshot, not a live API or an official taxonomy.",
+    "First and second level identifiers are stored as category IDs; third level identifiers can be attribute slugs, not numeric Kleinanzeigen category IDs.",
+    "Coverage and current validity have not been independently verified for publication.",
+    "No brand lists or size enums are included."
+  ]
+}

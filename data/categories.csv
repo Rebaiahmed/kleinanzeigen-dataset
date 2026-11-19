@@ -1,0 +1,635 @@
+level,id_or_slug,label,parent_id,top_level_id
+1,17,"Familie, Kind & Baby",,17
+2,18,"Weiteres Familie, Kind & Baby",17,17
+2,19,Baby- & Kinderschuhe,17,17
+3,ballerinas,Ballerinas,19,17
+3,halb_schnuerschuhe,Halb- & Schnürschuhe,19,17
+3,hausschuhe,Hausschuhe,19,17
+3,sandalen,Sandalen,19,17
+3,outdoor_wanderschuhe,Outdoor & Wanderschuhe,19,17
+3,sneaker_sportschuhe,Sneaker & Sportschuhe,19,17
+3,stiefel_stiefeletten,Stiefel & Stiefeletten,19,17
+3,badeschuhe,Badeschuhe,19,17
+3,sonstiges,Weitere Schuhe,19,17
+2,20,Kinderzimmermöbel,17,17
+3,betten_wiegen,Betten & Wiegen,20,17
+3,hochstuehle_laufstaelle,Hochstühle & Laufställe,20,17
+3,schraenke_kommoden,Schränke & Kommoden,20,17
+3,wickeltische_zubehoer,Wickeltische & Zubehör,20,17
+3,wippen_schaukeln,Wippen & Schaukeln,20,17
+3,sonstige,Weitere Kinderzimmermöbel,20,17
+2,21,Babyschalen & Kindersitze,17,17
+2,22,Baby- & Kinderkleidung,17,17
+3,hosen_jeans,Hosen & Jeans,22,17
+3,kleider_roecke,Kleider & Röcke,22,17
+3,shirts_tops,Shirts & Tops,22,17
+3,hemden,Hemden,22,17
+3,jacken_mantel,Jacken & Mäntel,22,17
+3,pullover_strickjacken,Pullover & Strickjacken,22,17
+3,wasche,Wäsche,22,17
+3,sportbekleidung,Sportbekleidung,22,17
+3,bademode,Bademode,22,17
+3,accessoires,Accessoires,22,17
+3,kleidungspakete,Kleidungspakete,22,17
+3,sonstiges,Weitere Baby- & Kinderkleidung,22,17
+2,23,Spielzeug,17,17
+3,actionfiguren,Action- & Spielfiguren,23,17
+3,babyspielzeug,Babyspielzeug,23,17
+3,barbie,Barbie & Co,23,17
+3,dreirad,Dreirad & Co,23,17
+3,gesellschaftsspiele,Gesellschaftsspiele,23,17
+3,holzspielzeug,Holzspielzeug,23,17
+3,lego_duplo,LEGO & Duplo,23,17
+3,lernspielzeug,Lernspielzeug,23,17
+3,playmobil,Playmobil,23,17
+3,puppen,Puppen,23,17
+3,spielzeug_autos,Spielzeugautos,23,17
+3,spielzeug_draussen,Spielzeug für draußen,23,17
+3,stofftiere,Stofftiere,23,17
+3,sonstiges,Weiteres Spielzeug,23,17
+2,25,Kinderwagen & Buggys,17,17
+2,236,Altenpflege,17,17
+2,237,Babysitter/-in & Kinderbetreuung,17,17
+2,258,Baby-Ausstattung,17,17
+1,73,"Musik, Filme & Bücher",,73
+2,74,Musikinstrumente,73,73
+2,75,"Weitere Musik, Filme & Bücher",73,73
+2,76,Bücher & Zeitschriften,73,73
+3,antiquarische_buecher,Antiquarische Bücher,76,73
+3,kinderbuecher,Kinderbücher,76,73
+3,krimis_thriller,Krimis & Thriller,76,73
+3,kunst_kultur,Kunst & Kultur,76,73
+3,sachbuecher,Sachbücher,76,73
+3,science_fiction,Science Fiction,76,73
+3,unterhaltungsliteratur,Unterhaltungsliteratur,76,73
+3,zeitgenoessische_literatur_klassiker,Zeitgenössische Literatur & Klassiker,76,73
+3,zeitschriften,Zeitschriften,76,73
+3,sonstige,Weitere Bücher & Zeitschriften,76,73
+2,77,"Fachbücher, Schule & Studium",73,73
+2,78,Musik & CDs,73,73
+2,79,Film & DVD,73,73
+2,281,Büro & Schreibwaren,73,73
+2,284,Comics,73,73
+1,80,Haus & Garten,,80
+2,81,Schlafzimmer,80,80
+3,betten,Betten,81,80
+3,lattenroste,Lattenroste,81,80
+3,matratzen,Matratzen,81,80
+3,nachttische,Nachttische,81,80
+3,schraenke,Schränke,81,80
+3,sonstiges,Weiteres Schlafzimmer,81,80
+2,82,Lampen & Licht,80,80
+2,84,Heimwerken,80,80
+2,86,Küche & Esszimmer,80,80
+3,besteck,Besteck,86,80
+3,geschirr,Geschirr,86,80
+3,glaeser,Gläser,86,80
+3,kuechengeraete,Kleingeräte,86,80
+3,kuechenschraenke,Küchenschränke,86,80
+3,stuehle,Stühle,86,80
+3,tische,Tische,86,80
+3,sonstige,Weiteres Küche & Esszimmer,86,80
+2,87,Weiteres Haus & Garten,80,80
+2,88,Wohnzimmer,80,80
+3,regale,Regale,88,80
+3,schraenke,Schränke & Schrankwände,88,80
+3,sitzmoebel,Sitzmöbel,88,80
+3,sofas_sitzgarnituren,Sofas & Sitzgarnituren,88,80
+3,tische,Tische,88,80
+3,tv_moebel,TV & Phonomöbel,88,80
+3,sonstiges,Weiteres Wohnzimmer,88,80
+2,89,Gartenzubehör & Pflanzen,80,80
+3,blumentoepfe,Blumentöpfe,89,80
+3,dekoration,Dekoration,89,80
+3,gartengeraete,Gartengeräte,89,80
+3,gartenmoebel,Gartenmöbel,89,80
+3,pflanzen,Pflanzen,89,80
+3,sonstige,Weiteres Gartenzubehör & Pflanzen,89,80
+2,90,Heimtextilien,80,80
+2,91,Badezimmer,80,80
+2,93,Büro,80,80
+2,239,Dienstleistungen Haus & Garten,80,80
+3,bau_handwerk,Bau & Handwerk,239,80
+3,garten_landschaftsbau,Garten- & Landschaftsbau,239,80
+3,haushaltshilfe,Haushaltshilfe,239,80
+3,reingungsservice,Reinigungsservice,239,80
+3,reparaturen,Reparaturen,239,80
+3,wohnungsaufloesungen,Wohnungsauflösungen,239,80
+3,sonstige,Weitere Dienstleistungen Haus & Garten,239,80
+2,246,Dekoration,80,80
+3,bilder_poster,Bilder & Poster,246,80
+3,kerzen_kerzenhalter,Kerzen & Kerzenhalter,246,80
+3,spiegel,Spiegel,246,80
+3,vasen,Vasen,246,80
+3,weitere,Weitere Dekoration,246,80
+1,102,Jobs,,102
+2,105,Kundenservice & Call Center,102,102
+2,107,Mini- & Nebenjobs,102,102
+2,109,Weitere Jobs,102,102
+3,designer_grafiker,Designer/-in & Grafiker/-in,109,102
+3,friseur,Friseur/-in,109,102
+3,haushaltshilfe,Haushaltshilfe,109,102
+3,hausmeister,Hausmeister/-in,109,102
+3,reinigungskraft,Reinigungskraft,109,102
+3,weitere,Weitere Berufe,109,102
+2,110,Gastronomie & Tourismus,102,102
+3,barkeeper,Barkeeper/-in,110,102
+3,hotelfach,Hotelfachmann/-frau,110,102
+3,kellner,Kellner/-in,110,102
+3,koch,Koch/Köchin,110,102
+3,kuechenhilfe,Küchenhilfe,110,102
+3,servicekraft,Servicekraft,110,102
+3,zimmermaedchen,Housekeeping,110,102
+3,weitere,Weitere Berufe,110,102
+2,111,"Bau, Handwerk & Produktion",102,102
+3,bauhelfer,Bauhelfer/-in,111,102
+3,dachdecker,Dachdecker/-in,111,102
+3,elektriker,Elektriker/-in,111,102
+3,fliesenleger,Fliesenleger/-in,111,102
+3,maler,Maler/-in,111,102
+3,maurer,Maurer/-in,111,102
+3,produktionshelfer,Produktionshelfer/-in,111,102
+3,schlosser,Schlosser/-in,111,102
+3,tischler,Tischler/-in,111,102
+3,weitere,Weitere Berufe,111,102
+2,114,Büroarbeit & Verwaltung,102,102
+3,buchhalter,Buchhalter/-in,114,102
+3,buerokauf,Bürokaufmann/-frau,114,102
+3,sachbearbeiter,Sachbearbeiter/-in,114,102
+3,sekretaer,Sekretär/-in,114,102
+3,weitere,Weitere Berufe,114,102
+2,117,"Vertrieb, Einkauf & Verkauf",102,102
+3,buchhalter,Buchhalter/-in,117,102
+3,immobilienmakler,Immobilienmakler/-in,117,102
+3,kauffrau,Kaufmann/-frau,117,102
+3,verkaeufer,Verkäufer/-in,117,102
+3,weitere,Weitere Berufe,117,102
+2,118,Ausbildung,102,102
+2,123,Sozialer Sektor & Pflege,102,102
+3,altenpfleger,Altenpfleger/-in,123,102
+3,artzhelfer,Arzthelfer/-in,123,102
+3,erzieher,Erzieher/-in,123,102
+3,krankenschwester,Krankenpfleger/-in,123,102
+3,physiotherapeut,Physiotherapeut/-in,123,102
+3,weitere,Weitere Berufe,123,102
+2,125,Praktika,102,102
+2,247,"Transport, Logistik & Verkehr",102,102
+3,kraftfahrer,Kraftfahrer/-in,247,102
+3,kurierfahrer,Kurierfahrer/-in,247,102
+3,lagerhelfer,Lagerhelfer/-in,247,102
+3,staplerfahrer,Staplerfahrer/-in,247,102
+3,weitere,Weitere Berufe,247,102
+1,130,Haustiere,,130
+2,132,Kleintiere,130,130
+3,hamster,Hamster,132,130
+3,hasen_kaninchen,Hasen & Kaninchen,132,130
+3,maeuse_ratten,Mäuse & Ratten,132,130
+3,meerschweinchen,Meerschweinchen,132,130
+3,sonstige,Weitere Kleintiere,132,130
+2,133,Tierbetreuung & Training,130,130
+2,134,Hunde,130,130
+3,mischlinge,Mischlinge,134,130
+3,beagle,Beagle,134,130
+3,bernhardiner,Bernhardiner,134,130
+3,border_collie,Border Collie,134,130
+3,boxer,Boxer,134,130
+3,cocker_spaniel,Cocker Spaniel,134,130
+3,collie,Collie,134,130
+3,dackel,Dackel,134,130
+3,dalmatiner,Dalmatiner,134,130
+3,dobermann,Dobermann,134,130
+3,dogge,Dogge,134,130
+3,goldenretriever,Golden Retriever,134,130
+3,husky,Husky,134,130
+3,jack_russel_terrier,Jack Russell Terrier,134,130
+3,labrador,Labrador,134,130
+3,malteser,Malteser,134,130
+3,pudel,Pudel,134,130
+3,schaeferhund,Schäferhunde,134,130
+3,spitz,Spitz,134,130
+3,terrier,Terrier,134,130
+3,sonstige,Weitere Hunde,134,130
+2,135,Nutztiere,130,130
+2,136,Katzen,130,130
+3,britisch_kurzhaar,Britisch Kurzhaar,136,130
+3,hauskatze,Hauskatze,136,130
+3,maine_coon,Maine Coon,136,130
+3,siam,Siam,136,130
+3,sonstige,Weitere Katzen,136,130
+2,138,Fische,130,130
+3,aquarium,Aquariumfische,138,130
+3,barsche,Barsche,138,130
+3,diskusfische,Diskusfische,138,130
+3,garnelen_krebse,Garnelen & Krebse,138,130
+3,koi,Koi,138,130
+3,schnecken,Schnecken,138,130
+3,wasserpflanzen,Wasserpflanzen,138,130
+3,welse,Welse,138,130
+3,sonstige,Weitere Fische,138,130
+2,139,Pferde,130,130
+3,grosspferde,Großpferde,139,130
+3,kleinpferde_ponys,Kleinpferde & Ponys,139,130
+2,243,Vögel,130,130
+2,283,Vermisste Tiere,130,130
+3,entlaufen,Entlaufen,283,130
+3,gefunden,Gefunden,283,130
+2,313,Zubehör,130,130
+3,fische,Fische,313,130
+3,hunde,Hunde,313,130
+3,katzen,Katzen,313,130
+3,kleintiere,Kleintiere,313,130
+3,pferde,Pferde,313,130
+3,reptilien,Reptilien,313,130
+3,voegel,Vögel,313,130
+3,sonstiges,Weiteres Zubehör Haustiere,313,130
+1,153,Mode & Beauty,,153
+2,154,Damenbekleidung,153,153
+3,anzuege,Anzüge,154,153
+3,bademode,Bademode,154,153
+3,hemden_blusen,Hemden & Blusen,154,153
+3,hochzeitsmode,Hochzeitsmode,154,153
+3,hosen,Hosen,154,153
+3,jacken_maentel,Jacken & Mäntel,154,153
+3,jeans,Jeans,154,153
+3,kostueme_verkleidungen,Kostüme & Verkleidungen,154,153
+3,pullover,Pullover,154,153
+3,roecke_kleider,Röcke & Kleider,154,153
+3,shirts_tops,Shirts & Tops,154,153
+3,shorts,Shorts,154,153
+3,sportbekleidung,Sportbekleidung,154,153
+3,umstandsmode,Umstandsmode,154,153
+3,sonstige,Weitere Damenbekleidung,154,153
+2,155,Weiteres Mode & Beauty,153,153
+2,156,Taschen & Accessoires,153,153
+3,muetzen_schals_handschuhe,"Mützen, Schals & Handschuhe",156,153
+3,sonnenbrillen,Sonnenbrillen,156,153
+3,taschen_rucksaecke,Taschen & Rucksäcke,156,153
+3,sonstiges,Weitere Taschen & Accessoires,156,153
+2,157,Uhren & Schmuck,153,153
+3,schmuck,Schmuck,157,153
+3,uhren,Uhren,157,153
+2,158,Herrenschuhe,153,153
+3,halb_schnuerschuhe,Halb- & Schnürschuhe,158,153
+3,hausschuhe,Hausschuhe,158,153
+3,sandalen,Sandalen,158,153
+3,sneaker_sportschuhe,Sneaker & Sportschuhe,158,153
+3,stiefel,Stiefel & Stiefeletten,158,153
+3,outdoor_wanderschuhe,Outdoor & Wanderschuhe,158,153
+3,sonstiges,Weitere Schuhe,158,153
+2,159,Damenschuhe,153,153
+3,ballerinas,Ballerinas,159,153
+3,halb_schnuerschuhe,Halb- & Schnürschuhe,159,153
+3,hausschuhe,Hausschuhe,159,153
+3,outdoor_wanderschuhe,Outdoor & Wanderschuhe,159,153
+3,pumps,Pumps & High Heels,159,153
+3,sandalen,Sandalen,159,153
+3,sneaker_sportschuhe,Sneaker & Sportschuhe,159,153
+3,stiefel,Stiefel & Stiefeletten,159,153
+3,sonstiges,Weitere Schuhe,159,153
+2,160,Herrenbekleidung,153,153
+3,anzuege,Anzüge,160,153
+3,bademode,Bademode,160,153
+3,hemden,Hemden,160,153
+3,hochzeitsmode,Hochzeitsmode,160,153
+3,hosen,Hosen,160,153
+3,jacken_maentel,Jacken & Mäntel,160,153
+3,jeans,Jeans,160,153
+3,kostueme_verkleidungen,Kostüme & Verkleidungen,160,153
+3,pullover,Pullover,160,153
+3,shirts,Shirts,160,153
+3,shorts,Shorts,160,153
+3,sportbekleidung,Sportbekleidung,160,153
+3,sonstige,Weitere Herrenbekleidung,160,153
+2,224,Beauty & Gesundheit,153,153
+3,make_up,Make-Up & Gesichtspflege,224,153
+3,haarpflege,Haarpflege,224,153
+3,koerperpflege,Körperpflege,224,153
+3,handpflege,Hand- & Nagelpflege,224,153
+3,gesundheit,Gesundheit,224,153
+3,sonstiges,Weiteres Beauty & Gesundheit,224,153
+1,161,Elektronik,,161
+2,168,Weitere Elektronik,161,161
+2,172,Audio & Hifi,161,161
+3,cd_player,CD Player,172,161
+3,lautsprecher_kopfhoerer,Lautsprecher & Kopfhörer,172,161
+3,mp3_player,MP3 Player,172,161
+3,radio_receiver,Radio & Receiver,172,161
+3,stereoanlagen,Stereoanlagen,172,161
+3,sonstiges,Weiteres Audio & Hifi,172,161
+2,173,Handy & Telefon,161,161
+3,apple,Apple,173,161
+3,google_handy,Google,173,161
+3,htc_handy,HTC,173,161
+3,huawai_handy,Huawei,173,161
+3,lg_handy,LG,173,161
+3,motorola_handy,Motorola,173,161
+3,nokia_handy,Nokia,173,161
+3,samsung_handy,Samsung,173,161
+3,siemens_handy,Siemens,173,161
+3,sony_handy,Sony,173,161
+3,xiaomi_handy,Xiaomi,173,161
+3,faxgeraete,Faxgeräte,173,161
+3,telefone,Telefone,173,161
+3,sonstige,Weitere Handys & Telefone,173,161
+2,175,TV & Video,161,161
+3,dvdplayer_recorder,DVD-Player & Recorder,175,161
+3,fernseher,Fernseher,175,161
+3,tv_receiver,TV-Receiver,175,161
+3,weitere,Weitere TV & Video,175,161
+2,176,Haushaltsgeräte,161,161
+3,haushaltskleingeraete,Haushaltskleingeräte,176,161
+3,herde_backoefen,Herde & Backöfen,176,161
+3,kaffee_espressomaschinen,Kaffee- & Espressomaschinen,176,161
+3,kuehlschraenke_gefriergeraete,Kühlschränke & Gefriergeräte,176,161
+3,spuelmaschinen,Spülmaschinen,176,161
+3,staubsauger,Staubsauger,176,161
+3,waschmaschinen_trockner,Waschmaschinen & Trockner,176,161
+3,sonstige,Weitere Haushaltsgeräte,176,161
+2,225,PC-Zubehör & Software,161,161
+3,drucker_scanner,Drucker & Scanner,225,161
+3,festplatten_laufwerke,Festplatten & Laufwerke,225,161
+3,gehaeuse,Gehäuse,225,161
+3,grafikkarten,Grafikkarten,225,161
+3,kabel_adapter,Kabel & Adapter,225,161
+3,mainboards,Mainboards,225,161
+3,monitore,Monitore,225,161
+3,multimedia,Multimedia,225,161
+3,netzwerk_modem,Netzwerk & Modem,225,161
+3,prozessor_cpu,Prozessoren / CPUs,225,161
+3,speicher,Speicher,225,161
+3,software,Software,225,161
+3,tastatur_maus,Tastatur & Maus,225,161
+3,sonstiges,Weiteres PC-Zubehör,225,161
+2,226,Dienstleistungen Elektronik,161,161
+2,227,Videospiele,161,161
+3,dsi_psp,DS(i)- & PSP Spiele,227,161
+3,nintendo,Nintendo Spiele,227,161
+3,playstation,PlayStation Spiele,227,161
+3,xbox,Xbox Spiele,227,161
+3,wii,Wii Spiele,227,161
+3,pc_spiele,PC Spiele,227,161
+3,sonstige,Weitere Videospiele,227,161
+2,228,PCs,161,161
+2,245,Foto,161,161
+3,camera,Kamera,245,161
+3,lens,Objektiv,245,161
+3,equipment,Zubehör,245,161
+3,camera_and_equipment,Kamera & Zubehör,245,161
+3,other,Weiteres Foto,245,161
+2,278,Laptops & Notebooks,161,161
+2,279,Konsolen,161,161
+3,playstation,PlayStation,279,161
+3,xbox,Xbox,279,161
+3,nintendo,Nintendo,279,161
+3,sega,SEGA,279,161
+3,atari,Atari,279,161
+3,snk,SNK,279,161
+3,steam,Steam,279,161
+3,weitere,Andere Konsole,279,161
+2,285,Tablets & Reader,161,161
+3,ipad,iPad,285,161
+3,kindle,Kindle,285,161
+3,samsung_tablets,Samsung Tablets,285,161
+3,weitere,Weitere Tablets & Reader,285,161
+2,405,Wearables,161,161
+3,smartwatches,Smartwatches,405,161
+3,fitness_tracker,Fitness-Tracker,405,161
+3,smart_rings,Smart Rings,405,161
+3,weitere_wearables,Weitere Wearables,405,161
+2,406,Wearables Zubehör,161,161
+3,ladegerate_kabel,Ladegeräte & Kabel,406,161
+3,armbander,Armbänder,406,161
+3,ersatzteile,Ersatzteile,406,161
+3,halterungen,Halterungen,406,161
+3,huellen_schutz,Hüllen & Schutz,406,161
+3,weiteres_zubehor,Weiteres Zubehör,406,161
+1,185,"Freizeit, Hobby & Nachbarschaft",,185
+2,187,Freizeitaktivitäten,185,185
+2,189,Verloren & Gefunden,185,185
+2,191,Künstler/-in & Musiker/-in,185,185
+2,230,Sport & Camping,185,185
+3,ballsport,Ballsport,230,185
+3,camping,Camping & Outdoor,230,185
+3,fitness,Fitness,230,185
+3,radsport,Radsport,230,185
+3,tanzen_laufen,Tanzen & Laufen,230,185
+3,wassersport,Wassersport,230,185
+3,wintersport,Wintersport,230,185
+3,sonstige,Weiteres Sport & Camping,230,185
+2,232,Esoterik & Spirituelles,185,185
+2,233,Reise & Eventservices,185,185
+2,234,Sammeln,185,185
+3,ansichts_postkarten,Ansichts- & Postkarten,234,185
+3,autogramme,Autogramme,234,185
+3,bierkruege_glaeser,Bierkrüge & -gläser,234,185
+3,briefmarken,Briefmarken,234,185
+3,comics,Comics,234,185
+3,flaggen,Flaggen,234,185
+3,muenzen,Münzen,234,185
+3,porzellan,Porzellan,234,185
+3,puppen_puppenzubehoer,Puppen & Puppenzubehör,234,185
+3,sammelbilder_sticker,Sammelbilder & Sticker,234,185
+3,sammelkartenspiele,Sammelkartenspiele,234,185
+3,ueberraschungseier,Überraschungseier,234,185
+3,werbeartikel,Werbeartikel,234,185
+3,sonstige,Weiteres Sammeln,234,185
+2,240,Kunst & Antiquitäten,185,185
+2,242,"Weiteres Freizeit, Hobby & Nachbarschaft",185,185
+2,248,Essen & Trinken,185,185
+2,249,Modellbau,185,185
+2,250,Trödel,185,185
+2,282,"Handarbeit, Basteln & Kunsthandwerk",185,185
+1,195,Immobilien,,195
+2,196,Eigentumswohnungen,195,195
+2,197,Garagen & Stellplätze,195,195
+3,kaufen,Kaufen,197,195
+3,mieten,Mieten,197,195
+2,198,Weitere Immobilien,195,195
+2,199,Auf Zeit & WG,195,195
+3,entire_accommodation,Gesamte Unterkunft,199,195
+3,private_room,Privatzimmer,199,195
+3,shared_room,Gemeinsames Zimmer,199,195
+2,203,Mietwohnungen,195,195
+2,205,Häuser zur Miete,195,195
+2,207,Grundstücke & Gärten,195,195
+3,baugrundstueck,Baugrundstück,207,195
+3,garten,Garten,207,195
+3,land_forstwirtschaft,Land-/Forstwirtschaft,207,195
+3,andere,Weitere Grundstücke & Gärten,207,195
+2,208,Häuser zum Kauf,195,195
+2,238,Umzug & Transport,195,195
+2,275,Ferien- & Auslandsimmobilien,195,195
+3,kaufen,Kaufen,275,195
+3,mieten,Mieten,275,195
+2,277,Gewerbeimmobilien,195,195
+3,kaufen,Kaufen,277,195
+3,mieten,Mieten,277,195
+2,402,Container,195,195
+3,kaufen,Kaufen,402,195
+3,mieten,Mieten,402,195
+1,210,"Auto, Rad & Boot",,210
+2,211,Boote & Bootszubehör,210,210
+3,motorboote,Motorboote,211,210
+3,segelboote,Segelboote,211,210
+3,kleinboote,Kleinboote,211,210
+3,schlauchboote,Schlauchboote,211,210
+3,jetski,Jetski,211,210
+3,bootstrailer,Bootstrailer,211,210
+3,bootsliegeplaetze,Bootsliegeplätze,211,210
+3,bootszubehoer,Bootszubehör,211,210
+3,andere,Weitere Boote,211,210
+2,216,Autos,210,210
+3,abarth,Abarth,216,210
+3,aixam,Aixam,216,210
+3,alfa_romeo,Alfa Romeo,216,210
+3,aston_martin,Aston Martin,216,210
+3,audi,Audi,216,210
+3,bentley,Bentley,216,210
+3,bmw,BMW,216,210
+3,byd,BYD,216,210
+3,cadillac,Cadillac,216,210
+3,chevrolet,Chevrolet,216,210
+3,chrysler,Chrysler,216,210
+3,citroen,Citroen,216,210
+3,corvette,Corvette,216,210
+3,cupra,Cupra,216,210
+3,dacia,Dacia,216,210
+3,daewoo,Daewoo,216,210
+3,daihatsu,Daihatsu,216,210
+3,dodge,Dodge,216,210
+3,ds,DS Automobiles,216,210
+3,ferrari,Ferrari,216,210
+3,fiat,Fiat,216,210
+3,ford,Ford,216,210
+3,honda,Honda,216,210
+3,hyundai,Hyundai,216,210
+3,infiniti,Infiniti,216,210
+3,iveco,Iveco,216,210
+3,jaguar,Jaguar,216,210
+3,jeep,Jeep,216,210
+3,kgm,KGM,216,210
+3,kia,Kia,216,210
+3,lada,Lada,216,210
+3,lamborghini,Lamborghini,216,210
+3,lancia,Lancia,216,210
+3,land_rover,Land Rover,216,210
+3,lexus,Lexus,216,210
+3,maserati,Maserati,216,210
+3,mazda,Mazda,216,210
+3,mercedes_benz,Mercedes Benz,216,210
+3,mg,MG,216,210
+3,microcar,Microcar,216,210
+3,mini,Mini,216,210
+3,mitsubishi,Mitsubishi,216,210
+3,nissan,Nissan,216,210
+3,opel,Opel,216,210
+3,peugeot,Peugeot,216,210
+3,polestar,Polestar,216,210
+3,porsche,Porsche,216,210
+3,renault,Renault,216,210
+3,rolls_royce,Rolls-Royce,216,210
+3,rover,Rover,216,210
+3,saab,Saab,216,210
+3,seat,Seat,216,210
+3,skoda,Skoda,216,210
+3,smart,Smart,216,210
+3,ssangyong,Ssangyong,216,210
+3,subaru,Subaru,216,210
+3,suzuki,Suzuki,216,210
+3,tesla,Tesla,216,210
+3,toyota,Toyota,216,210
+3,trabant,Trabant,216,210
+3,triumph,Triumph,216,210
+3,volkswagen,Volkswagen,216,210
+3,volvo,Volvo,216,210
+3,wartburg,Wartburg,216,210
+3,sonstige_autos,Weitere Automarken,216,210
+2,217,Fahrräder & Zubehör,210,210
+3,damen,Damen,217,210
+3,herren,Herren,217,210
+3,kinder,Kinder,217,210
+3,zubehoer,Zubehör,217,210
+3,weiteres,Weitere Fahrräder & Zubehör,217,210
+2,220,Wohnwagen & -mobile,210,210
+3,alkoven,Alkoven,220,210
+3,integrierter,Integrierter,220,210
+3,kastenwagen,Kastenwagen,220,210
+3,teilintegrierter,Teilintegrierter,220,210
+3,wohnwagen,Wohnwagen,220,210
+3,andere,Weitere Wohnwagen & -mobile,220,210
+2,223,Autoteile & Reifen,210,210
+3,auto_hifi_navigation,Auto Hifi & Navigation,223,210
+3,ersatz_reparaturteile,Ersatz- & Reparaturteile,223,210
+3,reifen_felgen,Reifen & Felgen,223,210
+3,tuning_styling,Tuning & Styling,223,210
+3,werkzeug,Werkzeug,223,210
+3,sonstige_autoteile,Weitere Autoteile,223,210
+2,241,"Weiteres Auto, Rad & Boot",210,210
+2,276,Nutzfahrzeuge & Anhänger,210,210
+3,agrarfahrzeuge,Agrarfahrzeuge,276,210
+3,anhaenger,Anhänger,276,210
+3,baumaschinen,Baumaschinen,276,210
+3,busse,Busse,276,210
+3,lkw,LKW,276,210
+3,sattelzugmaschinen_auflieger,Sattelzugmaschinen & Auflieger,276,210
+3,stapler,Stapler,276,210
+3,traktoren,Traktoren,276,210
+3,transporter,Transporter,276,210
+3,zubehoer,Nutzfahrzeugteile & Zubehör,276,210
+3,andere,Weitere Nutzfahrzeuge & Anhänger,276,210
+2,280,Reparaturen & Dienstleistungen,210,210
+2,305,Motorräder & Motorroller,210,210
+3,mofa,Mofas & Mopeds,305,210
+3,motorrad,Motorräder,305,210
+3,quad,Quads,305,210
+3,roller,Motorroller & Scooter,305,210
+2,306,Motorradteile & Zubehör,210,210
+3,teile,Ersatz- & Reparaturteile,306,210
+3,reifen_felgen,Reifen & Felgen,306,210
+3,kleidung,Motorradbekleidung,306,210
+1,231,Eintrittskarten & Tickets,,231
+2,251,Theater & Musical,231,231
+2,252,Kinder,231,231
+2,254,Comedy & Kabarett,231,231
+2,255,Konzerte,231,231
+2,256,Weitere Eintrittskarten & Tickets,231,231
+2,257,Sport,231,231
+2,286,Bahn & ÖPNV,231,231
+2,287,Gutscheine,231,231
+1,235,Unterricht & Kurse,,235
+2,260,Computerkurse,235,235
+2,261,Sportkurse,235,235
+2,262,Musik & Gesang,235,235
+2,263,Kochen & Backen,235,235
+2,264,Kunst & Gestaltung,235,235
+2,265,Esoterik & Spirituelles,235,235
+2,266,Weiterbildung,235,235
+2,267,Tanzkurse,235,235
+2,268,Nachhilfe,235,235
+2,269,Beauty & Gesundheit,235,235
+2,270,Weitere Unterricht & Kurse,235,235
+2,271,Sprachkurse,235,235
+1,272,Verschenken & Tauschen,,272
+2,192,Verschenken,272,272
+2,273,Tauschen,272,272
+2,274,Verleihen,272,272
+1,297,Dienstleistungen,,297
+2,288,Altenpflege,297,297
+2,289,"Auto, Rad & Boot",297,297
+2,290,Babysitter/-in & Kinderbetreuung,297,297
+2,291,Haus & Garten,297,297
+3,bau_handwerk,Bau & Handwerk,291,297
+3,garten_landschaftsbau,Garten- & Landschaftsbau,291,297
+3,haushaltshilfe,Haushaltshilfe,291,297
+3,reingungsservice,Reinigungsservice,291,297
+3,reparaturen,Reparaturen,291,297
+3,wohnungsaufloesungen,Wohnungsauflösungen,291,297
+3,sonstige,Weitere Dienstleistungen Haus & Garten,291,297
+2,292,Künstler/-in & Musiker/-in,297,297
+2,293,Elektronik,297,297
+2,294,Reise & Event,297,297
+2,295,Tierbetreuung & Training,297,297
+2,296,Umzug & Transport,297,297
+2,298,Weitere Dienstleistungen,297,297
+1,400,Nachbarschaftshilfe,,400
+2,401,Nachbarschaftshilfe,400,400
