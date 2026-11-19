@@ -4,6 +4,12 @@ A community-maintained snapshot of marketplace category names and identifiers, a
 
 > This is an **unofficial snapshot**, not a live API or an official Kleinanzeigen dataset. It is not affiliated with or endorsed by Kleinanzeigen. The source map was last changed on **17 October 2026** and was **not independently checked against the live site at publication**.
 
+## 📈 Real market data
+
+**New:** We collected 450 real search results across nine topics on 20 November 2026, including iPhone 18, board games, musical instruments and Nebenjobs. Explore the [market snapshot and methodology](data/market-snapshots/README.md) or [download the summary CSV](data/market-snapshots/2026-11-20-summary.csv).
+
+The public file contains **aggregate statistics**, not the individual scraped listings. It is a small, unfiltered snapshot of asking prices—not verified sale prices or a representative market study.
+
 ## 📦 What's inside
 
 | Level | Records | Example |
@@ -18,7 +24,7 @@ These counts describe the checked-in snapshot only; they are not a claim about c
 - 📊 [categories.csv](data/categories.csv) — the same map flattened for spreadsheets and analysis.
 - 🔎 [metadata.json](data/metadata.json) — origin, version and limitations.
 
-The first two levels use IDs from the source category map. **Third-level values may be attribute slugs rather than numeric category IDs.** Preserve the parent ID when matching them; do not treat every slug as a globally unique category. No listing records, seller information, prices, brand lists or size lists are included.
+The first two levels use IDs from the source category map. **Third-level values may be attribute slugs rather than numeric category IDs.** Preserve the parent ID when matching them; do not treat every slug as a globally unique category. The category files contain no listing records, seller information, prices, brand lists or size lists. The separate market snapshot contains aggregate asking-price statistics.
 
 ## 🚀 Use the data
 

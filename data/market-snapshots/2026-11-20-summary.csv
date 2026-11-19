@@ -1,0 +1,10 @@
+category,search_query,category_id_filter,observed_at_utc,listings_returned,numeric_eur_prices,median_asking_price_eur
+smartphones,iphone 13,173,2026-11-19T23:34:23+00:00,50,50,245.0
+iphone_18,iphone 18,173,2026-11-19T23:36:13+00:00,50,49,1300.0
+gaming_consoles,playstation 5,279,2026-11-19T23:34:23+00:00,50,46,550.0
+cars,Volkswagen Golf,216,2026-11-19T23:34:24+00:00,50,49,7980.0
+furniture,IKEA Kallax,,2026-11-19T23:34:25+00:00,50,46,25.0
+shoes,Adidas Samba,,2026-11-19T23:34:25+00:00,50,49,55.0
+board_games,Brettspiel,23,2026-11-19T23:44:16+00:00,50,49,15.0
+musical_instruments,,74,2026-11-19T23:44:17+00:00,50,49,280.0
+nebenjobs,,107,2026-11-19T23:44:17+00:00,50,0,
