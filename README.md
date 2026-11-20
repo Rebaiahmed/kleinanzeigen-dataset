@@ -4,7 +4,7 @@ A community-maintained collection of **market snapshots and marketplace category
 
 > This is an **unofficial snapshot**, not a live API or an official Kleinanzeigen dataset. It is not affiliated with or endorsed by Kleinanzeigen. The source map was last changed on **17 October 2026** and was **not independently checked against the live site at publication**.
 
-## 🚀 Built with AnzeigenBoost
+## AnzeigenBoost (Kleinanzeigen-boost)
 
 **Sell smarter on Kleinanzeigen with [AnzeigenBoost](https://anzeigenboost.de/)** — a Chrome extension and web dashboard that help sellers manage and improve their listings.
 
