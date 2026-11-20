@@ -8,9 +8,23 @@ A community-maintained collection of **market snapshots and marketplace category
 
 We collected **450 real search results across nine topics**: iPhone 13, iPhone 18, PlayStation 5, Volkswagen Golf, IKEA Kallax, Adidas Samba, board games, musical instruments and Nebenjobs.
 
+| Search | Results | Results with numeric EUR prices | Median asking price in these results |
+| --- | ---: | ---: | ---: |
+| 📱 iPhone 13 | 50 | 50 | €245 |
+| 📱 iPhone 18 | 50 | 49 | €1,300 |
+| 🎮 PlayStation 5 | 50 | 46 | €550 |
+| 🚗 Volkswagen Golf | 50 | 49 | €7,980 |
+| 🪑 IKEA Kallax | 50 | 46 | €25 |
+| 👟 Adidas Samba | 50 | 49 | €55 |
+| 🎲 Board games | 50 | 49 | €15 |
+| 🎸 Musical instruments | 50 | 49 | €280 |
+| 💼 Mini- & Nebenjobs | 50 | 0 | Not available |
+
+These are **asking prices for the returned results**, not confirmed sale prices. Results are newest-first, unfiltered and not deduplicated; they may include unrelated items, accessories or bundles. The medians are not reliable valuations or representative of the whole market. The iPhone 18 results have not been verified as actual iPhone 18 devices; the Nebenjob search returned no numeric prices.
+
 📊 [View the snapshot and methodology](data/market-snapshots/README.md) · ⬇️ [Download the summary CSV](data/market-snapshots/2026-11-20-summary.csv)
 
-The public file contains **aggregate statistics**, not the individual scraped listings. It is a small, unfiltered snapshot of asking prices—not verified sale prices or a representative market study.
+The public file contains **aggregate statistics**, not the individual scraped listings.
 
 ## 📦 What's inside
 
