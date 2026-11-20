@@ -1,12 +1,14 @@
 # 🗂️ Kleinanzeigen Dataset
 
-A community-maintained snapshot of marketplace category names and identifiers, available in **JSON and CSV**. Prepared by [AnzeigenBoost](https://anzeigenboost.de) for developers building search, analytics and listing tools.
+A community-maintained collection of **market snapshots and marketplace category data**, available in JSON and CSV. Prepared by [AnzeigenBoost](https://anzeigenboost.de) for developers building search, analytics and listing tools.
 
 > This is an **unofficial snapshot**, not a live API or an official Kleinanzeigen dataset. It is not affiliated with or endorsed by Kleinanzeigen. The source map was last changed on **17 October 2026** and was **not independently checked against the live site at publication**.
 
-## 📈 Real market data
+## 📈 Real market snapshot — 20 November 2026
 
-**New:** We collected 450 real search results across nine topics on 20 November 2026, including iPhone 18, board games, musical instruments and Nebenjobs. Explore the [market snapshot and methodology](data/market-snapshots/README.md) or [download the summary CSV](data/market-snapshots/2026-11-20-summary.csv).
+We collected **450 real search results across nine topics**: iPhone 13, iPhone 18, PlayStation 5, Volkswagen Golf, IKEA Kallax, Adidas Samba, board games, musical instruments and Nebenjobs.
+
+📊 [View the snapshot and methodology](data/market-snapshots/README.md) · ⬇️ [Download the summary CSV](data/market-snapshots/2026-11-20-summary.csv)
 
 The public file contains **aggregate statistics**, not the individual scraped listings. It is a small, unfiltered snapshot of asking prices—not verified sale prices or a representative market study.
 
