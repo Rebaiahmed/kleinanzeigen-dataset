@@ -4,6 +4,20 @@ A community-maintained collection of **market snapshots and marketplace category
 
 > This is an **unofficial snapshot**, not a live API or an official Kleinanzeigen dataset. It is not affiliated with or endorsed by Kleinanzeigen. The source map was last changed on **17 October 2026** and was **not independently checked against the live site at publication**.
 
+## 🚀 Built with AnzeigenBoost
+
+**Sell smarter on Kleinanzeigen with [AnzeigenBoost](https://anzeigenboost.de/)** — a Chrome extension and web dashboard that help sellers manage and improve their listings.
+
+- 🔎 **Compare the market:** explore similar listings and asking prices.
+- 📈 **Check listing position and performance:** see search-position snapshots and listing statistics.
+- ✍️ **Improve listings:** get suggestions for titles, descriptions and photos.
+- 💬 **Draft replies:** use KI-Antwort to help prepare responses to buyers.
+- 🔄 **Plan reposts:** schedule eligible listings for reposting.
+
+Feature availability and credit costs can vary. Visit the website for current details.
+
+🌐 **[Explore AnzeigenBoost](https://anzeigenboost.de/)** · 🧩 **[Get the Chrome extension](https://chromewebstore.google.com/detail/noagiapohlenpolcbeghlmngalapbobe)**
+
 ## 📈 Real market snapshot — 20 November 2026
 
 We collected **450 real search results across nine topics**: iPhone 13, iPhone 18, PlayStation 5, Volkswagen Golf, IKEA Kallax, Adidas Samba, board games, musical instruments and Nebenjobs.
@@ -59,6 +73,12 @@ No account, API key or network requests are required for the export.
 This is an export of the category map already used in the AnzeigenBoost codebase. Its last recorded source-file change is identified in [metadata.json](data/metadata.json). Category names, identifiers and availability can change; please independently verify values before relying on them in production. This repository does not yet contain a verified update schedule.
 
 Found an error? [Open an issue](../../issues) with the category and a public reference, or propose a correction in a pull request. Please do not include customer messages or personal information.
+
+## 👋 About the creator
+
+Hi, I'm **[Ahmed Rebai](https://github.com/Rebaiahmed)**, the developer behind AnzeigenBoost. I created this project to make secondhand marketplace data easier to explore and to build practical tools for people selling on Kleinanzeigen.
+
+⭐ If you find the dataset useful, consider starring this repository. Have an idea or found a mistake? [Open an issue](../../issues) — feedback and contributions are welcome.
 
 ## 📄 License
 
